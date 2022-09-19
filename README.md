@@ -1,1 +1,4 @@
-# cybersecuirty-jobs-analysis
+# cybersecurity-jobs-analysis
+
+## Description
+Project which aims to analyze cybersecurity job data in the United States. Project management board [here](https://trello.com/b/qGnBwsSO/cybersecuirty-jobs-analysis).
