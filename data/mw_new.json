@@ -1,0 +1,1622 @@
+[
+    {
+        "company_name": "Oxford Lock",
+        "company_rating": "",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "1"
+    },
+    {
+        "company_name": "Advanced Hires",
+        "company_rating": "",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "14"
+    },
+    {
+        "company_name": "Sikich",
+        "company_rating": "3.8",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "67.5",
+        "high_salary": "85.5",
+        "post_age_days": ""
+    },
+    {
+        "company_name": "Milliman",
+        "company_rating": "3.6",
+        "remote": 1,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "21"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "91.7",
+        "high_salary": "116",
+        "post_age_days": "1"
+    },
+    {
+        "company_name": "Represent Consulting Group",
+        "company_rating": "",
+        "remote": 2,
+        "city": "South Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "14"
+    },
+    {
+        "company_name": "Children's Wisconsin",
+        "company_rating": "4.2",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "63.5",
+        "high_salary": "80.3",
+        "post_age_days": "6"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "93",
+        "high_salary": "118",
+        "post_age_days": "12"
+    },
+    {
+        "company_name": "Techspace Solutions",
+        "company_rating": "",
+        "remote": 0,
+        "city": "Wauwatosa",
+        "state": "WI",
+        "low_salary": "86.5",
+        "high_salary": "110",
+        "post_age_days": "3"
+    },
+    {
+        "company_name": "Marquette University",
+        "company_rating": "4.2",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "68.6",
+        "high_salary": "86.8",
+        "post_age_days": "3"
+    },
+    {
+        "company_name": "Milwaukee Electric Tool Corporation",
+        "company_rating": "3.7",
+        "remote": 0,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "107",
+        "high_salary": "135",
+        "post_age_days": "22"
+    },
+    {
+        "company_name": "Milwaukee Electric Tool Corporation",
+        "company_rating": "3.7",
+        "remote": 0,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "95",
+        "high_salary": "120",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "89.2",
+        "high_salary": "113",
+        "post_age_days": "26"
+    },
+    {
+        "company_name": "Hold Security, LLC",
+        "company_rating": "",
+        "remote": 0,
+        "city": "Mequon",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "8"
+    },
+    {
+        "company_name": "VMware",
+        "company_rating": "4.1",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "45.6",
+        "high_salary": "57.8",
+        "post_age_days": "15"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "86",
+        "high_salary": "109",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Briggs and Stratton",
+        "company_rating": "3.6",
+        "remote": 1,
+        "city": "Wauwatosa",
+        "state": "WI",
+        "low_salary": "95.7",
+        "high_salary": "121",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Johnson Controls",
+        "company_rating": "3.7",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "27"
+    },
+    {
+        "company_name": "Accenture",
+        "company_rating": "4.0",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "20"
+    },
+    {
+        "company_name": "ZYWAVE INC.",
+        "company_rating": "3.6",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "91",
+        "high_salary": "115",
+        "post_age_days": "14"
+    },
+    {
+        "company_name": "LANDMARK CREDIT UNION",
+        "company_rating": "3.2",
+        "remote": 0,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "73.1",
+        "high_salary": "92.5",
+        "post_age_days": "22"
+    },
+    {
+        "company_name": "IDENTIFY SECURITY",
+        "company_rating": "",
+        "remote": 0,
+        "city": "Wauwatosa",
+        "state": "WI",
+        "low_salary": "97.2",
+        "high_salary": "123",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Molson Coors",
+        "company_rating": "3.8",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "85.2",
+        "high_salary": "108",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Foley & Lardner LLP",
+        "company_rating": "3.7",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "86.1",
+        "high_salary": "109",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "MARS Solutions Group",
+        "company_rating": "4.3",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "7"
+    },
+    {
+        "company_name": "Johnson Controls",
+        "company_rating": "3.7",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "86.1",
+        "high_salary": "109",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Johnson Controls",
+        "company_rating": "3.7",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "28"
+    },
+    {
+        "company_name": "Johnson Controls",
+        "company_rating": "3.7",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Impact Networking",
+        "company_rating": "3.2",
+        "remote": 0,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Johnson Controls",
+        "company_rating": "3.7",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "28"
+    },
+    {
+        "company_name": "Johnson Controls",
+        "company_rating": "3.7",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Accenture",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Gerald L. Ignace Indian Health Center, Inc.",
+        "company_rating": "4.3",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "133",
+        "high_salary": "169",
+        "post_age_days": "26"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "120",
+        "high_salary": "152",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "98.8",
+        "high_salary": "125",
+        "post_age_days": "21"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "105",
+        "high_salary": "133",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Marquette University",
+        "company_rating": "4.2",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "42",
+        "high_salary": "53.2",
+        "post_age_days": "3"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "80.8",
+        "high_salary": "102",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Tri City National Bank",
+        "company_rating": "3.1",
+        "remote": 0,
+        "city": "West Allis",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "23"
+    },
+    {
+        "company_name": "Waukesha County Technical College",
+        "company_rating": "4.4",
+        "remote": 0,
+        "city": "Pewaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Optiv",
+        "company_rating": "3.2",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "107",
+        "high_salary": "136",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "SysLogic, Inc.",
+        "company_rating": "",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "103",
+        "high_salary": "130",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "PTS Consulting",
+        "company_rating": "",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "8"
+    },
+    {
+        "company_name": "SysLogic, Inc.",
+        "company_rating": "",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "103",
+        "high_salary": "130",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "117",
+        "high_salary": "148",
+        "post_age_days": "26"
+    },
+    {
+        "company_name": "Executive Director, Inc.",
+        "company_rating": "2.6",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "66.4",
+        "high_salary": "84",
+        "post_age_days": "2"
+    },
+    {
+        "company_name": "Advocate Aurora Health",
+        "company_rating": "3.6",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Recruiting From Scratch",
+        "company_rating": "",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Recruiting From Scratch",
+        "company_rating": "",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "160",
+        "high_salary": "202",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "144",
+        "high_salary": "182",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Associated Bank",
+        "company_rating": "3.4",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "72.3",
+        "high_salary": "91.5",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "118",
+        "high_salary": "150",
+        "post_age_days": "22"
+    },
+    {
+        "company_name": "Codeworks, L.L.C.",
+        "company_rating": "",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "65.5",
+        "high_salary": "82.9",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Accenture",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Northwestern Mutual",
+        "company_rating": "3.8",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "MGIC",
+        "company_rating": "4.1",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "84.4",
+        "high_salary": "107",
+        "post_age_days": "30"
+    },
+    {
+        "company_name": "PRICE WATERHOUSE COOPERS",
+        "company_rating": "4.0",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "WEC Energy Group (WEC)",
+        "company_rating": "3.7",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "68.8",
+        "high_salary": "87.2",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Career finder",
+        "company_rating": "",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "65.7",
+        "high_salary": "83.1",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Career finder",
+        "company_rating": "",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "70.5",
+        "high_salary": "89.3",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Manpower Corporate",
+        "company_rating": "3.8",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "140",
+        "high_salary": "178",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "116",
+        "high_salary": "147",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "WEC Energy Group (WEC)",
+        "company_rating": "3.7",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "70.1",
+        "high_salary": "88.7",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Johnson Controls",
+        "company_rating": "3.7",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "28"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "96.2",
+        "high_salary": "122",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "161",
+        "high_salary": "203",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Robert W. Baird",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "93.3",
+        "high_salary": "118",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Advocate Aurora Health",
+        "company_rating": "3.6",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "17"
+    },
+    {
+        "company_name": "SC Johnson",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Racine",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "20"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "145",
+        "high_salary": "184",
+        "post_age_days": "21"
+    },
+    {
+        "company_name": "SC Johnson",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Racine",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "20"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Rockwell Automation",
+        "company_rating": "3.8",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Zurn Water Solutions",
+        "company_rating": "",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "90.8",
+        "high_salary": "115",
+        "post_age_days": "1"
+    },
+    {
+        "company_name": "CCI Systems, Inc.",
+        "company_rating": "3.4",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "9"
+    },
+    {
+        "company_name": "Accenture",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "5"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "130",
+        "high_salary": "164",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Beta Plus Technologies, Inc",
+        "company_rating": "",
+        "remote": 0,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "74",
+        "high_salary": "93.6",
+        "post_age_days": "30"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Johnson Controls",
+        "company_rating": "3.7",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Rockwell Automation",
+        "company_rating": "3.8",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "126",
+        "high_salary": "159",
+        "post_age_days": "15"
+    },
+    {
+        "company_name": "Accenture",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "8"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "83.8",
+        "high_salary": "106",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "131",
+        "high_salary": "166",
+        "post_age_days": "19"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "102",
+        "high_salary": "130",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "97.7",
+        "high_salary": "124",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Accenture",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Accenture",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "110",
+        "high_salary": "139",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "EATON",
+        "company_rating": "3.7",
+        "remote": 2,
+        "city": "Franksville",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "KOHLS",
+        "company_rating": "3.7",
+        "remote": 1,
+        "city": "Menomonee Falls",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "137",
+        "high_salary": "173",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Komatsu",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Accenture",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "9"
+    },
+    {
+        "company_name": "Rockwell Automation",
+        "company_rating": "3.8",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "80.8",
+        "high_salary": "102",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Astronautics/Kearfott Corporation",
+        "company_rating": "3.1",
+        "remote": 0,
+        "city": "Oak Creek",
+        "state": "WI",
+        "low_salary": "68.2",
+        "high_salary": "86.4",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "BRP",
+        "company_rating": "3.8",
+        "remote": 3,
+        "city": "Sturtevant",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "PRICE WATERHOUSE COOPERS",
+        "company_rating": "4.0",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "84.4",
+        "high_salary": "107",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Northwestern Mutual",
+        "company_rating": "3.8",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Exact Metrology",
+        "company_rating": "4.8",
+        "remote": 0,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "60.5",
+        "high_salary": "76.5",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Career finder",
+        "company_rating": "",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Northwestern Mutual",
+        "company_rating": "3.8",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "6"
+    },
+    {
+        "company_name": "Waukesha County Technical College",
+        "company_rating": "4.4",
+        "remote": 0,
+        "city": "Pewaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "73.1",
+        "high_salary": "92.5",
+        "post_age_days": "15"
+    },
+    {
+        "company_name": "A-LIGN External",
+        "company_rating": "",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "90.6",
+        "high_salary": "115",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "In-Place Machining Co LLC",
+        "company_rating": "3.4",
+        "remote": 0,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "59.7",
+        "high_salary": "75.7",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Johnson Controls",
+        "company_rating": "3.7",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "19"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "134",
+        "high_salary": "170",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "100",
+        "high_salary": "127",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "A-LIGN External",
+        "company_rating": "",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "83.8",
+        "high_salary": "106",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "PRICE WATERHOUSE COOPERS",
+        "company_rating": "4.0",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "80.3",
+        "high_salary": "102",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Crisis Prevention Institute",
+        "company_rating": "4.0",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "102",
+        "high_salary": "129",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Northwestern Mutual",
+        "company_rating": "3.8",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "VMware",
+        "company_rating": "4.1",
+        "remote": 1,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "97.4",
+        "high_salary": "123",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "RSM US LLP",
+        "company_rating": "3.6",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "131",
+        "high_salary": "165",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "142",
+        "high_salary": "180",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "126",
+        "high_salary": "159",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "80.3",
+        "high_salary": "102",
+        "post_age_days": "15"
+    },
+    {
+        "company_name": "Oxford Lock",
+        "company_rating": "",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "1"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "164",
+        "high_salary": "208",
+        "post_age_days": "8"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "141",
+        "high_salary": "179",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Advanced Hires",
+        "company_rating": "",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "14"
+    },
+    {
+        "company_name": "EY",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Arrow Electronics, Inc.",
+        "company_rating": "3.5",
+        "remote": 1,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Sparks Group",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Pewaukee",
+        "state": "WI",
+        "low_salary": "88.3",
+        "high_salary": "112",
+        "post_age_days": "9"
+    },
+    {
+        "company_name": "Brooksource",
+        "company_rating": "3.7",
+        "remote": 0,
+        "city": "",
+        "state": "",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Crisis Prevention Institute",
+        "company_rating": "4.0",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "102",
+        "high_salary": "129",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Northwestern Mutual",
+        "company_rating": "3.8",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "141",
+        "high_salary": "178",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "EY",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "RSM US LLP",
+        "company_rating": "3.6",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "131",
+        "high_salary": "165",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "142",
+        "high_salary": "180",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "126",
+        "high_salary": "159",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "80.3",
+        "high_salary": "102",
+        "post_age_days": "15"
+    },
+    {
+        "company_name": "Oxford Lock",
+        "company_rating": "",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "1"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "164",
+        "high_salary": "208",
+        "post_age_days": "8"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "141",
+        "high_salary": "179",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Advanced Hires",
+        "company_rating": "",
+        "remote": 2,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "14"
+    },
+    {
+        "company_name": "Arrow Electronics, Inc.",
+        "company_rating": "3.5",
+        "remote": 1,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Brooksource",
+        "company_rating": "3.7",
+        "remote": 0,
+        "city": "",
+        "state": "",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "EY",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "141",
+        "high_salary": "178",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "EY",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "RSM US LLP",
+        "company_rating": "3.6",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "131",
+        "high_salary": "165",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "142",
+        "high_salary": "180",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "126",
+        "high_salary": "159",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "KPMG",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "80.3",
+        "high_salary": "102",
+        "post_age_days": "15"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "164",
+        "high_salary": "208",
+        "post_age_days": "8"
+    },
+    {
+        "company_name": "Deloitte",
+        "company_rating": "3.9",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "141",
+        "high_salary": "179",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "EY",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "Milwaukee",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Arrow Electronics, Inc.",
+        "company_rating": "3.5",
+        "remote": 1,
+        "city": "Brookfield",
+        "state": "WI",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Brooksource",
+        "company_rating": "3.7",
+        "remote": 0,
+        "city": "",
+        "state": "",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "Charles River Laboratories",
+        "company_rating": "3.2",
+        "remote": 0,
+        "city": "",
+        "state": "",
+        "low_salary": "99.5",
+        "high_salary": "126",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "iLocatum Recruiting",
+        "company_rating": "",
+        "remote": 0,
+        "city": "",
+        "state": "",
+        "low_salary": "",
+        "high_salary": "",
+        "post_age_days": "15"
+    },
+    {
+        "company_name": "First Solar",
+        "company_rating": "4.0",
+        "remote": 0,
+        "city": "",
+        "state": "",
+        "low_salary": "84.3",
+        "high_salary": "107",
+        "post_age_days": "30+"
+    },
+    {
+        "company_name": "ENSCO, Inc.",
+        "company_rating": "4.1",
+        "remote": 0,
+        "city": "",
+        "state": "",
+        "low_salary": "93.2",
+        "high_salary": "118",
+        "post_age_days": "23"
+    }
+]
