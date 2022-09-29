@@ -1,0 +1,50 @@
+body {
+  font-family: sans-serif;
+  margin-top: 16px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: lightgray;
+}
+
+.page-title {
+  font-size: 4rem;
+  text-align: left;
+  margin-bottom: 16px;
+}
+
+.container-main {
+  margin: 0px 10% 0px 10%;
+  width: 80%;
+}
+
+@media only screen and (max-width: 768px) {
+  .container-main {
+    margin: 72px 15% 0px 15%;
+    width: 70%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .container-main {
+    margin: 0 0 0 0;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .page-title {
+    font-size: 3rem;
+  }
+}
+
+
+@media only screen and (max-width: 300px) {
+  .page-title {
+    font-size: 2rem;
+  }
+}

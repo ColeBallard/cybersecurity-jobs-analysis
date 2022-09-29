@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Bootstrap CSS -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+	<!-- Custom CSS -->
+	<link href="style.css" rel="stylesheet">
+
+	<title>Cybersecurity Jobs Analysis</title>
+</head>
+
+<body class="bg-dark text-white">
+	<div class="container-fluid container-main">
+
+		<header>
+			<h1 class="page-title">Cybersecurity Jobs Analysis</h1>
+		</header>
+
+		<ul class="nav nav-tabs" role="tablist">
+			<li class="nav-item" role="presentation">
+				<button class="nav-link active" id="com-tab" data-bs-toggle="tab" data-bs-target="#com-tab-pane"
+					type="button" role="tab" aria-controls="com-tab-pane" aria-selected="true">3 Cities
+					Combined</button>
+			</li>
+			<li class="nav-item" role="presentation">
+				<button class="nav-link" id="ny-tab" data-bs-toggle="tab" data-bs-target="#ny-tab-pane" type="button"
+					role="tab" aria-controls="ny-tab-pane" aria-selected="false">New York</button>
+			</li>
+			<li class="nav-item" role="presentation">
+				<button class="nav-link" id="min-tab" data-bs-toggle="tab" data-bs-target="#min-tab-pane" type="button"
+					role="tab" aria-controls="min-tab-pane" aria-selected="false">Minneapolis</button>
+			</li>
+			<li class="nav-item" role="presentation">
+				<button class="nav-link" id="mil-tab" data-bs-toggle="tab" data-bs-target="#mil-tab-pane" type="button"
+					role="tab" aria-controls="mil-tab-pane" aria-selected="false">Milwuakee</button>
+			</li>
+			<li class="nav-item" role="presentation">
+				<button class="nav-link" id="nat-tab" data-bs-toggle="tab" data-bs-target="#nat-tab-pane" type="button"
+					role="tab" aria-controls="nat-tab-pane" aria-selected="true">National</button>
+			</li>
+		</ul>
+		<div class="tab-content">
+			<div class="tab-pane fade show active" id="com-tab-pane" role="tabpanel" aria-labelledby="com-tab"
+				tabindex="0">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md">
+							<canvas id="com-remote-jobs-pie" width="400" height="400"></canvas>
+						</div>
+						<div class="col-md">
+							<canvas id="com-salary-ranges-bar" width="400" height="400"></canvas>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="tab-pane fade" id="ny-tab-pane" role="tabpanel" aria-labelledby="ny-tab" tabindex="0">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md">
+							<canvas id="ny-remote-jobs-pie" width="400" height="400"></canvas>
+						</div>
+						<div class="col-md">
+							<canvas id="ny-salary-ranges-bar" width="400" height="400"></canvas>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="tab-pane fade" id="min-tab-pane" role="tabpanel" aria-labelledby="min-tab" tabindex="0">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md">
+							<canvas id="min-remote-jobs-pie" width="400" height="400"></canvas>
+						</div>
+						<div class="col-md">
+							<canvas id="min-salary-ranges-bar" width="400" height="400"></canvas>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="tab-pane fade" id="mil-tab-pane" role="tabpanel" aria-labelledby="mil-tab" tabindex="0">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md">
+							<canvas id="mil-remote-jobs-pie" width="400" height="400"></canvas>
+						</div>
+						<div class="col-md">
+							<canvas id="mil-salary-ranges-bar" width="400" height="400"></canvas>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="tab-pane fade" id="nat-tab-pane" role="tabpanel" aria-labelledby="nat-tab" tabindex="0">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md">
+							<canvas id="nat-remote-jobs-pie" width="400" height="400"></canvas>
+						</div>
+						<div class="col-md">
+							<canvas id="nat-salary-ranges-bar" width="400" height="400"></canvas>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+	<!-- Bootstrap Bundle with Popper -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+		crossorigin="anonymous"></script>
+
+	<!-- Chart.js -->
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+	<!-- Data -->
+	<script src="data/data_new.js"></script>
+
+	<!-- Custom JS -->
+	<script src="script.js"></script>
+
+</body>
+
+</html>
