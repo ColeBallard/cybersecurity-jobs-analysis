@@ -1,6 +1,6 @@
 function getCOMB() {
     var COMB = [...NY];
-    console.log(NY.length)
+    
     for (let i in MIN) {
         COMB.push(MIN[i]);
     }
@@ -139,26 +139,165 @@ function genSalaryRangesBar(loc, dataset) {
     });
 }
 
-var COMB = getCOMB();
+function genTopCompaniesBar(loc, dataset) {
+    const ctx = document.getElementById(loc + '-top-companies-bar');
 
-console.log(NY.length)
+    companies = []
+
+    for (let i in dataset) {
+        if (companies.some(e => e.name === dataset[i]['company_name'].toUpperCase())) {
+            companies[companies.findIndex(e => e.name === dataset[i]['company_name'].toUpperCase())]['count'] += 1;
+        }
+
+        else {
+            companies.push({'name':dataset[i]['company_name'].toUpperCase(), 'count': 1})
+        }
+    }
+
+    companies.sort((a, b) => b.count - a.count)
+
+    top_12_companies_name = []
+    top_12_companies_count = []
+
+    for (let i = 0; i < 12; i++) {
+        top_12_companies_count.push(companies[i]['count']);
+        top_12_companies_name.push(companies[i]['name']);
+    }
+
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: top_12_companies_name,
+            datasets: [{
+                label: 'Number of Cybersecurity Job Postings',
+                data: top_12_companies_count,
+                backgroundColor: '#ff6150',
+                borderWidth: 0
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Top 12 Companies with the Most Cybersecurity Job Postings',
+                    font: {
+                        size: 24,
+                        
+                    },
+                    color: 'white'
+                }
+            }
+        }
+    });
+}
+
+function genHighRatedCompaniesBar(loc, dataset) {
+    const ctx = document.getElementById(loc + '-high-companies-bar');
+
+    dataset_sorted = [...dataset]
+
+    dataset_sorted = [...new Map(dataset_sorted.map(v => [v.company_name, v])).values()]
+
+    dataset_sorted.sort((a, b) => b.company_rating - a.company_rating)
+
+    top_12_companies_name = []
+    top_12_companies_rating = []
+
+    for (let i = 0; i < 12; i++) {
+        top_12_companies_name.push(dataset_sorted[i]['company_name'].toUpperCase());
+        top_12_companies_rating.push(dataset_sorted[i]['company_rating']);
+    }
+
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: top_12_companies_name,
+            datasets: [{
+                label: 'Rating out of 5',
+                data: top_12_companies_rating,
+                backgroundColor: '#1ac0c6',
+                borderWidth: 0
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Top 12 Highest Rated Companies with Cybersecurity Job Postings',
+                    font: {
+                        size: 24,
+                        
+                    },
+                    color: 'white'
+                }
+            },
+            scales: {
+                y: {
+                    min: 4,
+                    max: 5
+                }
+            },
+        }
+    });
+}
+
+function genAvgPostAge(loc, dataset) {
+    const ctx = document.getElementById(loc + '-avg-post-age');
+
+    let count = 0, total = 0;
+
+    for (let i in dataset) {
+        if (dataset[i]['post_age_days'] !== '30+' && !isNaN(dataset[i]['post_age_days']) && dataset[i]['post_age_days'] != '') {
+            count++;
+            total += parseInt(dataset[i]['post_age_days']);
+        }
+    }
+
+    ctx.innerHTML = Math.round(total/count);
+}
+
+var COMB = getCOMB();
 
 genRemoteJobsPie('com', COMB)
 
 genSalaryRangesBar('com', COMB)
 
+genTopCompaniesBar('com', COMB)
+
+genHighRatedCompaniesBar('com', COMB)
+
 genRemoteJobsPie('ny', NY)
 
 genSalaryRangesBar('ny', NY)
+
+genTopCompaniesBar('ny', NY)
+
+genHighRatedCompaniesBar('ny', NY)
 
 genRemoteJobsPie('min', MIN)
 
 genSalaryRangesBar('min', MIN)
 
+genTopCompaniesBar('min', MIN)
+
+genHighRatedCompaniesBar('min', MIN)
+
 genRemoteJobsPie('mil', MIL)
 
 genSalaryRangesBar('mil', MIL)
 
+genTopCompaniesBar('mil', MIL)
+
+genHighRatedCompaniesBar('mil', MIL)
+
 genRemoteJobsPie('nat', US)
 
 genSalaryRangesBar('nat', US)
+
+genTopCompaniesBar('nat', US)
+
+genHighRatedCompaniesBar('nat', US)
