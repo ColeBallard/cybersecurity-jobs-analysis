@@ -57,7 +57,7 @@ def detDatePosted(date_posted):
         return ''
 
 def cleanData(file):
-    with open(f'data/{file}.json', 'r', encoding='utf-8') as f:
+    with open(f'../data/{file}.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     job_data = []
@@ -83,7 +83,7 @@ def cleanData(file):
 
         job_data.append(job_obj)
 
-    with open(f'data/{file}_new.json', 'w', encoding='utf-8') as f:
+    with open(f'../data/{file}_new.json', 'w', encoding='utf-8') as f:
         json.dump(job_data, f)  
 
 cleanData('us')

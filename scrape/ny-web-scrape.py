@@ -61,5 +61,5 @@ for pagenum in range(0, 56):
 
         jobs_obj.append(job_obj)
 
-with open('data/ny.json', 'w', encoding='utf-8') as f:
+with open('../data/ny.json', 'w', encoding='utf-8') as f:
     json.dump(jobs_obj, f)  
