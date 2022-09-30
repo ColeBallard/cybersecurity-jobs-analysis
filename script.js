@@ -40,6 +40,8 @@ function genRemoteJobsPie(loc, dataset) {
             }]
         },
         options: {
+            responsive: true,
+            maintainAspectRatio: false,
             plugins: {
                 title: {
                     display: true,
@@ -124,6 +126,8 @@ function genSalaryRangesBar(loc, dataset) {
             }]
         },
         options: {
+            responsive: true,
+            maintainAspectRatio: false,
             plugins: {
                 title: {
                     display: true,
