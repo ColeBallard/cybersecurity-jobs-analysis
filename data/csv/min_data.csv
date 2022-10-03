@@ -1,0 +1,292 @@
+company_name,company_rating,remote,city,state,low_salary,high_salary,post_age_days
+Target,3.6,0,Brooklyn Park,MN,83.3,105,3
+Horizontal Talent,2.6,0,Minneapolis,MN,101,128,5
+UnitedHealth Group,3.6,1,Plymouth,MN,86,109,6
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,
+Calance US,3.7,0,Minneapolis,MN,60.4,76.4,30+
+Insight Global,3.9,0,Minneapolis,MN,,,
+PRICE WATERHOUSE COOPERS,4.0,1,Minneapolis,MN,80,101,30+
+BDO,3.6,0,Minneapolis,MN,62,78.6,30+
+Aon,3.7,2,Minneapolis,MN,68.7,87.1,13
+Ameriprise Financial,3.8,0,Minneapolis,MN,,,1
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,7
+Amazon,3.5,0,Minneapolis,MN,,,1
+Optum,3.4,1,Eden Prairie,MN,,,6
+UNFI,2.9,0,Eden Prairie,MN,,,27
+Honeywell,3.7,2,Golden Valley,MN,82.3,104,30+
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,7
+Land O'Lakes,3.5,0,Arden Hills,MN,,,22
+Amazon,3.5,0,Minneapolis,MN,,,1
+Honeywell,3.7,2,Golden Valley,MN,82.3,104,30+
+Optum,3.4,1,Eden Prairie,MN,,,6
+UNFI,2.9,0,Eden Prairie,MN,,,27
+Optum,3.4,1,Eden Prairie,MN,,,26
+Encore Theme,,0,Richfield,MN,89.8,114,23
+ImageTrend Inc,2.3,1,Minneapolis-Saint Paul,MN,71.5,90.5,2
+State of Minnesota,3.5,0,Saint Paul,MN,,,2
+Constellation,3.7,0,Minneapolis,MN,78.8,99.8,9
+Ntier Solutions,,0,Minneapolis,MN,85.2,108,2
+"Surescripts, LLC",3.8,2,Minneapolis,MN,,,2
+State of Minnesota,3.5,0,Saint Paul,MN,,,8
+KPMG,3.9,1,Minneapolis,MN,94.3,119,12
+Jamf,4.2,1,Minneapolis,MN,47.7,60.3,2
+Cargill,3.8,1,Hopkins,MN,,,30+
+VMware,4.1,1,Minneapolis,MN,46.3,58.7,15
+Federal Reserve Bank of Minneapolis,3.6,2,Minneapolis,MN,98.8,125,29
+Optum,3.4,2,Eden Prairie,MN,,,30+
+Connexus Energy,4.6,0,Ramsey,MN,,,7
+Accenture,4.0,0,Minneapolis,MN,,,30+
+Honeywell,3.7,0,Minneapolis,MN,110,139,15
+Mandiant,3.5,1,Minneapolis,MN,69.5,88.1,21
+Cargill,3.8,1,Minneapolis,MN,,,30+
+Locknet Managed IT,,0,Burnsville,MN,54.6,69.2,28
+Ntier Solutions,,0,Minneapolis,MN,91.3,116,
+Allina Health System,3.7,0,Minneapolis,MN,,,30+
+AT&T,3.7,0,Minneapolis-Saint Paul,MN,,,28
+Xcel Energy,3.6,0,Minneapolis,MN,,,4
+Augeo,4.0,0,Saint Paul,MN,68.9,87.3,10
+Royal Bank of Canada,4.0,0,Minneapolis,MN,74.7,94.7,30+
+Kraken Digital Asset Exchange,2.7,0,Minneapolis,MN,,,5
+M. A. Mortenson Company,4.1,0,Minneapolis,MN,78.8,99.8,30+
+"The Travelers Companies, Inc.",3.7,0,Saint Paul,MN,,,7
+Inspire Medical Systems I,3.8,0,Golden Valley,MN,80.7,102,30+
+Ostra Cybersecurity,,0,Minnetonka,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,86.8,110,30+
+Arctic Wolf,4.2,0,Eden Prairie,MN,69.9,88.5,30
+Grace Church Of Minnesota,,0,Eden Prairie,MN,,,1
+U.S. Bank,3.6,0,Minneapolis,MN,,,5
+Splunk,4.2,0,Minneapolis,MN,,,30+
+VMware,4.1,1,Minneapolis,MN,,,30+
+Medtronic,3.9,0,Mounds View,MN,,,13
+Icario Health,,1,Minneapolis,MN,,,15
+VMware,4.1,1,Minneapolis,MN,,,30+
+Medtronic,3.9,0,Mounds View,MN,,,13
+Cyber Advisors,2.2,0,Maple Grove,MN,74.7,94.5,7
+NAC Mechanical & Electrical Services,,0,Saint Paul,MN,68,86.2,6
+Amazon.com Services LLC,3.5,0,Minneapolis,MN,,,30+
+Arctic Wolf,4.2,0,Eden Prairie,MN,74,93.8,30+
+Optum,3.4,0,Eden Prairie,MN,,,30+
+BAE Systems,3.8,0,Minneapolis,MN,,,30+
+Bank of America,3.8,0,Minneapolis,MN,73.4,93,30+
+Minnesota Historical Society,4.0,0,Saint Paul,MN,,,30+
+Cargill,3.8,0,Hopkins,MN,,,30+
+Hennepin Healthcare,3.8,2,Minneapolis,MN,85.1,108,
+"NetSPI, LLC",,0,Minneapolis,MN,,,22
+U.S. Bank,3.6,0,Richfield,MN,87.4,111,30+
+Allianz Technology,3.9,0,Minneapolis,MN,106,134,28
+Hennepin Healthcare,3.8,2,Minneapolis,MN,85.1,108,
+Allianz Technology,3.9,0,Minneapolis,MN,106,134,28
+"NetSPI, LLC",,0,Minneapolis,MN,,,22
+U.S. Bank,3.6,0,Richfield,MN,87.4,111,30+
+Lurie,,0,Minneapolis,MN,66.3,83.9,12
+Burns & McDonnell,3.6,0,Minneapolis-Saint Paul,MN,82.5,104,30+
+Deloitte,3.9,0,Minneapolis,MN,106,134,30+
+Optum,3.4,1,Eden Prairie,MN,,,30+
+KPMG,3.9,0,Minneapolis,MN,122,155,30+
+HelpSystems,4.0,0,Eden Prairie,MN,83.8,106,23
+Intellectt Inc,,0,Maple Grove,MN,,,8
+Jamf,4.2,1,Minneapolis,MN,51.2,64.8,2
+Marco Technologies LLC,3.0,0,Minnetonka,MN,,,24
+Arctic Wolf,4.2,0,Eden Prairie,MN,102,129,14
+CDW,3.7,0,Minneapolis,MN,71.4,90.4,30+
+Deloitte,3.9,0,Minneapolis,MN,148,187,30+
+Circle,3.7,1,Minneapolis,MN,103,130,28
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,30+
+Recruiting From Scratch,,1,Minneapolis,MN,,,30+
+"HelpSystems, LLC",4.0,0,Eden Prairie,MN,86,109,15
+Deloitte,3.9,0,Minneapolis,MN,118,150,30+
+GeoLogics Corporation,4.0,0,Bloomington,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,142,179,30+
+"Amazon Web Services, Inc.",3.4,0,Minneapolis,MN,,,30+
+Entrust Datacard,3.3,0,Shakopee,MN,102,130,
+"Infinity Consulting Solutions, Inc.",3.1,0,Saint Paul,MN,,,13
+Optum,3.4,1,Plymouth,MN,,,13
+Medtronic,3.9,1,Mounds View,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,119,151,22
+Ameriprise Financial,3.8,0,Minneapolis,MN,,,30+
+Medtronic,3.9,1,Mounds View,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,119,151,22
+Nxt Technologies,,0,Bloomington,MN,,,30+
+UnitedHealth Group,3.6,1,Minnetonka,MN,129,163,30+
+SCHWAN'S,3.1,0,Minneapolis-Saint Paul,MN,,,7
+Trace3,3.1,0,Minneapolis,MN,107,136,30+
+Carlson Wagonlit Travel,3.8,0,Minnetonka,MN,73.1,92.5,30+
+3M,3.9,1,Saint Paul,MN,175,221,30+
+Deloitte,3.9,0,Minneapolis,MN,,,30+
+"Amazon Dev Center U.S., Inc.",3.5,0,Minneapolis,MN,,,30+
+The Opus Group,3.2,2,Minnetonka,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,131,166,30+
+"Amazon Data Services, Inc.",3.5,0,Minneapolis,MN,,,30+
+KPMG,3.9,0,Minneapolis,MN,145,184,30+
+"NetSPI, LLC",,0,Minneapolis,MN,80,101,30+
+Pearson,3.7,0,Saint Paul,MN,,,30
+Shutterfly,3.6,1,Eden Prairie,MN,,,23
+Accenture,4.0,0,Minneapolis,MN,,,30+
+Pentair,3.5,0,Golden Valley,MN,,,30+
+Abbott Laboratories,3.9,0,Saint Paul,MN,,,30+
+Thrivent,3.8,0,Minneapolis,MN,,,6
+Accenture,4.0,0,Minneapolis,MN,,,5
+Recruiting From Scratch,,1,Minneapolis,MN,160,202,30+
+Accenture,4.0,0,Minneapolis,MN,,,30+
+Allianz Technology,3.9,0,Minneapolis,MN,114,144,22
+WELLS FARGO BANK,3.7,2,Minneapolis,MN,,,5
+Catapult Consultants,4.1,0,Eagan,MN,85.1,108,30+
+RPO International,,0,Hopkins,MN,,,
+Accenture,4.0,0,Minneapolis,MN,,,9
+Bremer Bank,3.6,0,Lake Elmo,MN,71.8,91,30+
+MIDCONTINENT INDEPENDENT SYSTEM OPERATOR INC,3.3,1,Eagan,MN,96,122,3
+Deloitte,3.9,0,Minneapolis,MN,94,119,30+
+Fairview Health Services,3.4,1,Minneapolis,MN,111,141,30+
+United Bankers' Bank,3.0,2,Bloomington,MN,69,87.4,15
+Medtronic,3.9,0,Fridley,MN,,,30+
+Peraton,3.3,0,Eagan,MN,,,19
+KPMG,3.9,0,Minneapolis,MN,,,30+
+"Patterson Companies, Inc.",3.2,0,Minneapolis-Saint Paul,MN,,,8
+United Business Solutions Inc,,0,Minneapolis,MN,102,129,30+
+Blue Cross and Blue Shield of Minnesota,3.7,1,Eagan,MN,97.3,123,30+
+Cognizant,3.9,0,Eagan,MN,,,1
+Arctic Wolf,4.2,0,Eden Prairie,MN,,,30+
+"Amazon Data Services, Inc.",3.5,0,Minneapolis,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,133,168,19
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,30+
+KPMG,3.9,0,Minneapolis,MN,,,30+
+"Patterson Companies, Inc.",3.2,0,Minneapolis-Saint Paul,MN,,,8
+United Business Solutions Inc,,0,Minneapolis,MN,102,129,30+
+Blue Cross and Blue Shield of Minnesota,3.7,1,Eagan,MN,97.3,123,30+
+Cognizant,3.9,0,Eagan,MN,,,1
+Arctic Wolf,4.2,0,Eden Prairie,MN,,,30+
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,30+
+"Amazon Data Services, Inc.",3.5,0,Minneapolis,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,133,168,19
+Deloitte,3.9,0,Minneapolis,MN,119,151,19
+Deloitte,3.9,0,Minneapolis,MN,145,184,21
+Collins Aerospace,3.6,0,Burnsville,MN,,,30+
+Optum,3.4,1,Eden Prairie,MN,,,30+
+Cyware,,1,Minneapolis,MN,79.4,101,30+
+Isys Technologies,3.5,0,Eagan,MN,,,30+
+Datasite,3.5,0,Minneapolis,MN,68,86.2,30+
+Deloitte,3.9,0,Minneapolis,MN,109,138,30+
+Arctic Wolf,4.2,1,Eden Prairie,MN,117,148,13
+KPMG,3.9,0,Minneapolis,MN,104,132,30+
+SPS COMMERCE,3.7,0,Minneapolis,MN,101,128,30+
+"CCI Systems, Inc.",3.4,1,Saint Paul,MN,,,9
+Pentair,3.5,0,Golden Valley,MN,,,30+
+Arctic Wolf,4.2,1,Eden Prairie,MN,144,182,30+
+Mandiant,3.5,1,Minneapolis,MN,,,30+
+"SkyWater Technology Foundry, Inc.",3.1,0,Bloomington,MN,88.4,112,30+
+ValueBase Consulting,,0,Minneapolis,MN,107,135,30+
+Accenture,4.0,0,Minneapolis,MN,,,30+
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,138,174,30+
+Arctic Wolf,4.2,1,Eden Prairie,MN,134,170,30+
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,138,174,30+
+Mandiant,3.5,1,Minneapolis,MN,123,155,30+
+Bank of America,3.8,0,Minneapolis,MN,44.8,56.8,30+
+U.S. Bank,3.6,0,Minneapolis,MN,113,143,30+
+Best Buy,3.8,0,Richfield,MN,,,30+
+KPMG,3.9,0,Minneapolis,MN,84.5,107,30+
+Palo Alto Networks,3.9,1,Minneapolis,MN,,,30+
+Circle,3.7,1,Minneapolis,MN,128,162,30+
+BDO,3.6,0,Minneapolis,MN,63.5,80.3,30+
+NextEra Energy,3.9,0,Saint Paul,MN,95.1,120,30+
+Xcel Energy,3.6,0,Minneapolis,MN,,,15
+2U Bootcamps Instructional Engagement,,1,Saint Paul,MN,,,30+
+Palo Alto Networks,3.9,1,Minneapolis,MN,,,15
+Accenture,4.0,0,Minneapolis,MN,,,30
+Palo Alto Networks,3.9,1,Minneapolis,MN,,,15
+Ryder System,3.3,1,Saint Paul,MN,,,30+
+Emerson,3.8,2,Eden Prairie,MN,,,28
+Silicon Valley Bank,3.8,1,Minneapolis,MN,,,30
+Ameriprise Financial,3.8,0,Minneapolis,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,,,30+
+"Stratasys, Inc.",3.3,0,Minneapolis,MN,96.5,122,13
+CURO Financial Technologies Corporation,3.7,1,Minneapolis,MN,105,134,30+
+HealthPartners,3.8,0,Richfield,MN,71.7,90.7,30+
+Deloitte,3.9,0,Minneapolis,MN,110,140,30+
+Isys Technologies,3.5,0,Eagan,MN,,,30+
+Fairview Health Services,3.4,0,Minneapolis,MN,107,136,30+
+Accenture,4.0,0,Minneapolis,MN,,,30+
+Arctic Wolf,4.2,1,Eden Prairie,MN,123,156,13
+Country Financial,3.7,0,Minneapolis,MN,,,30+
+Arctic Wolf,4.2,1,Eden Prairie,MN,123,156,13
+Technodeed Inc,,0,Minneapolis,MN,105,134,30+
+Medtronic,3.9,1,Minneapolis,MN,,,26
+PRICE WATERHOUSE COOPERS,4.0,1,Minneapolis,MN,82.9,105,30+
+VMware,4.1,1,Minneapolis,MN,99,125,30+
+Loram Maintenance of Way,3.1,2,Hamel,MN,70.9,89.7,30+
+KPMG,3.9,0,Minneapolis,MN,74.5,94.3,15
+Deloitte,3.9,0,Minneapolis,MN,,,30+
+U.S. Bank,3.6,0,Richfield,MN,91.1,115,6
+"ICU Medical, Inc.",3.3,1,Plymouth,MN,107,135,30+
+Pearson,3.7,0,Saint Paul,MN,,,30+
+PRICE WATERHOUSE COOPERS,4.0,1,Minneapolis,MN,79.8,101,30+
+U.S. Bank,3.6,1,Richfield,MN,,,12
+MIDCONTINENT INDEPENDENT SYSTEM OPERATOR INC,3.3,1,Eagan,MN,120,152,30+
+CliftonLarsonAllen,3.3,0,Minneapolis,MN,60.5,76.7,30+
+Entrust Datacard,3.3,0,Shakopee,MN,88.8,112,30+
+Entrust Datacard,3.3,0,Shakopee,MN,97.6,124,30+
+University of Minnesota,4.1,0,Minneapolis,MN,67.1,84.9,28
+RSM US LLP,3.6,0,Minneapolis,MN,122,155,30+
+UNFI,2.9,1,Eden Prairie,MN,,,30+
+"Strategic Education, Inc.",3.8,0,Minneapolis,MN,64.8,82,5
+Toppan Merrill,2.5,1,Saint Paul,MN,,,30+
+Check Point Software Technologies Ltd.,3.6,0,Minneapolis,MN,73.4,93,30+
+Blue Cross and Blue Shield of Minnesota,3.7,2,Eagan,MN,119,150,30+
+Deloitte,3.9,0,Minneapolis,MN,85.3,108,30+
+SonicWall,3.8,0,Minneapolis,MN,101,128,5
+CDW,3.7,0,Minneapolis,MN,141,178,29
+Fairview Health Services,3.4,0,Minneapolis,MN,120,151,30+
+A-LIGN External,,1,Minneapolis,MN,91.8,116,30+
+Cyber Advisors,2.2,0,Maple Grove,MN,80.6,102,30+
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,30+
+KPMG,3.9,0,Minneapolis,MN,81.2,103,15
+Accenture,4.0,0,Minneapolis,MN,,,8
+TARGET,3.6,0,Brooklyn Park,MN,119,151,30+
+Deloitte,3.9,0,Minneapolis,MN,,,30+
+UNFI,2.9,1,Eden Prairie,MN,,,14
+Arctic Wolf,4.2,2,Eden Prairie,MN,85.7,109,14
+DELUXE CORPORATION,3.1,0,Minneapolis,MN,,,30+
+WELLS FARGO BANK,3.7,2,Minneapolis,MN,,,5
+Donaldson,3.4,2,Bloomington,MN,114,145,30+
+UCare,3.9,0,Minneapolis,MN,76.9,97.3,30+
+Kindeva Drug Delivery Careers,,0,Woodbury,MN,,,30+
+Deloitte,3.9,0,Minneapolis,MN,99.4,126,30+
+"ACIST Medical Systems, Inc.",3.8,1,Eden Prairie,MN,109,138,30+
+A-LIGN External,,1,Minneapolis,MN,85.3,108,30+
+Deloitte,3.9,0,Minneapolis,MN,128,162,30+
+Infinite Computing Systems,3.6,0,Saint Paul,MN,,,30+
+Minnetronix,3.7,0,Saint Paul,MN,,,30+
+Strayer University,3.5,0,Minneapolis,MN,72.1,91.3,6
+Hennepin County,3.8,1,Minnesot,,,,21
+KPMG,3.9,0,Minneapolis,MN,,,13
+BDO,3.6,0,Minneapolis,MN,83,105,30+
+"HMA Group Holdings, LLC.",,0,Minneapolis,MN,52.4,66.4,30+
+Arctic Wolf,4.2,1,Eden Prairie,MN,173,220,30+
+RSM US LLP,3.6,0,Minneapolis,MN,129,163,30+
+Deloitte,3.9,0,Minneapolis,MN,94.4,120,30+
+Deloitte,3.9,0,Minneapolis,MN,166,211,8
+CyberCoders,3.7,1,Minneapolis,MN,,,1
+"Arrow Electronics, Inc.",3.5,1,Eden Prairie,MN,,,30+
+University of Minnesota,4.1,0,Minneapolis,MN,86.8,110,29
+"Arrow Electronics, Inc.",3.5,1,Eden Prairie,MN,,,30+
+Brooksource,3.7,0,,,,,30+
+GloComms,,2,United State,,,,1
+Sterling St James LLC,,0,,,103,131,15
+"Lexmark International, Inc.",3.9,1,United State,,109,138,30+
+Strategic Financial Solutions,3.7,0,,,93.8,119,30+
+Minnetronix,3.7,0,Saint Paul,MN,,,30+
+Strayer University,3.5,0,Minneapolis,MN,72.1,91.3,6
+KPMG,3.9,0,Minneapolis,MN,,,13
+BDO,3.6,0,Minneapolis,MN,83,105,30+
+"HMA Group Holdings, LLC.",,0,Minneapolis,MN,52.4,66.4,30+
+Arctic Wolf,4.2,1,Eden Prairie,MN,173,220,30+
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,30+
+RSM US LLP,3.6,0,Minneapolis,MN,129,163,30+
+Deloitte,3.9,0,Minneapolis,MN,94.4,120,30+
+Deloitte,3.9,0,Minneapolis,MN,166,211,8
+University of Minnesota,4.1,0,Minneapolis,MN,86.8,110,29
+WELLS FARGO BANK,3.7,0,Minneapolis,MN,,,30+
+Brooksource,3.7,0,,,,,30+
+KirkpatrickPrice,4.4,0,,,,,2
+"Arrow Electronics, Inc.",3.5,1,Eden Prairie,MN,,,30+

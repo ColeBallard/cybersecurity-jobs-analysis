@@ -1,0 +1,832 @@
+company_name,company_rating,remote,city,state,low_salary,high_salary,post_age_days
+"Evergreen Technologies, LLC.",,1,New York,NY,66.8,84.6,12
+ACLU - National Office,,1,New York,NY,,,12
+IBM,3.9,0,New York,NY,109,137,1
+Citi,3.9,0,New York,NY,,,27
+PRICE WATERHOUSE COOPERS,4.0,1,New York,NY,85.4,108,30+
+RV Education Freelance Network,,1,New York,NY,68.5,86.7,30+
+KPMG,3.9,1,New York,NY,99.5,126,12
+Paramount Networks International,3.9,1,New York,NY,90,114,7
+Realign LLC,,1,New York,NY,95,120,30+
+ACLU,4.3,0,New York,NY,,,30+
+General Assembly,4.2,1,New York,NY,66.1,83.7,15
+"JPMorgan Chase Bank, N.A.",3.8,0,New York,NY,,,30
+Amex,4.1,0,New York,NY,,,
+NDK Cyber,,0,New York,NY,,,2
+Major League Baseball,4.2,1,New York,NY,107,136,30+
+Major League Baseball,4.2,0,New York,NY,81.7,103,30+
+Mastercard,4.0,0,New York,NY,,,6
+Marvel Entertainment,4.0,0,New York,NY,88.1,112,30
+Align,3.5,1,New York,NY,,,30+
+VMware,4.1,1,New York,NY,49.2,62.2,15
+GE Corporate,4.0,1,New York,NY,,,30+
+"Amazon Web Services, Inc.",3.4,0,New York,NY,,,8
+RightTalents LLC,,0,New York,NY,,,7
+TikTok,3.3,0,New York,NY,98.6,125,30+
+News Corp,3.8,1,New York,NY,95.4,121,30+
+Morgan Stanley,3.8,2,New York,NY,,,6
+Aon Corporation,3.7,2,New York,NY,74.5,94.3,14
+Stack Overflow,3.3,1,New York,NY,,,30+
+The Walt Disney Company (Corporate),4.1,2,New York,NY,106,135,30+
+TCI Technologies,,0,New York,NY,85.8,109,30+
+TSR Consulting,4.1,0,New York,NY,,,
+Spotify,4.3,1,New York,NY,141,179,30+
+Reddit,4.0,1,New York,NY,125,158,30+
+Sony Electronics,4.1,0,New York,NY,,,12
+Munich Re America,4.0,0,New York,NY,80.9,102,13
+Align,3.5,0,New York,NY,,,30+
+SOFT Inc,,0,New York,NY,81.1,103,21
+Paramount,3.9,1,New York,NY,100,127,7
+Christian Dior Couture,4.0,0,New York,NY,137,174,30+
+Hum Capital,,1,New York,NY,113,143,30+
+2U Bootcamps Instructional Engagement,,1,New York,NY,,,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,97.1,123,30+
+SOFT Inc,,0,New York,NY,120,152,10
+ServiceNow,3.6,0,New York,NY,144,182,30+
+Federal Reserve Bank of New York,4.1,2,New York,NY,110,139,22
+2U Bootcamps,,1,New York,NY,34.6,43.8,30+
+The Port Authority of New York and New Jersey...,,0,New York,NY,73.3,92.9,14
+VMware,4.1,1,New York,NY,110,139,30+
+Vertex Solutions Inc,,1,New York,NY,,,8
+Righttalents LLC,,0,New York,NY,,,1
+NTT DATA,3.4,1,New York,NY,,,15
+TMC,,1,New York,NY,119,151,6
+Authentic Brands Group,3.4,0,New York,NY,,,30+
+Zip Co,,1,New York,NY,146,185,19
+Chainalysis,,1,New York,NY,123,156,30+
+Barnes & Noble,3.8,0,New York,NY,,,30+
+Goldman Sachs,4.0,0,New York,NY,106,134,30+
+Deutsche Bank,3.8,0,New York,NY,136,172,30+
+Amex,4.1,0,New York,NY,,,30+
+Right Talents,,0,New York,NY,86.6,110,8
+Accenture,4.0,1,New York,NY,,,20
+Jean Martin,3.7,0,New York,NY,70,88.6,17
+Goldman Sachs,4.0,0,New York,NY,,,30+
+Rippling,,1,New York,NY,137,174,21
+Zurich Insurance,3.7,1,New York,NY,,,30+
+Exabeam,3.2,1,New York,NY,151,191,1
+Deutsche Bank,3.8,1,New York,NY,114,144,30+
+Change Healthcare,3.0,1,New York,NY,,,5
+Deutsche Bank,3.8,1,New York,NY,101,129,30+
+Ocrolus Inc.,,1,New York,NY,148,187,23
+VMware,4.1,1,New York,NY,65.4,82.8,29
+Federal Reserve Bank of New York,4.1,0,New York,NY,124,157,19
+Mandiant,3.5,1,New York,NY,75.7,95.9,6
+"Stefanini, Inc",3.8,0,New York,NY,,,21
+NYC Careers,2.5,0,New York,NY,,,14
+VTS3,,0,New York,NY,103,131,27
+Cognizant Technology Solutions,3.9,1,New York,NY,,,26
+New York County District Attorney's Office,4.3,0,New York,NY,,,30+
+National Debt Relief,4.2,1,New York,NY,71.2,90.2,30+
+Grant Thornton,3.7,0,New York,NY,82.1,104,28
+DocGo,4.2,0,New York,NY,,,6
+Spring Health,3.3,1,New York,NY,92,116,30+
+"Amazon Dev Center U.S., Inc.",3.5,0,New York,NY,,,6
+Warner Music Group,4.1,0,New York,NY,40.4,51.2,30+
+Right Talents,,2,New York,NY,,,13
+VMware,4.1,1,New York,NY,84.6,107,7
+Google,4.3,2,New York,NY,,,30+
+Palnar Transmedia,,0,New York,NY,110,139,30+
+VMware,4.1,1,New York,NY,101,129,21
+Disney Media & Entertainment Distribution,4.1,0,New York,NY,112,142,8
+Morgan Stanley,3.8,0,New York,NY,,,30+
+J.S. Held,3.0,1,New York,NY,104,131,30+
+the NBA,4.2,0,New York,NY,73.4,93,30+
+Integrated DNA Technologies (IDT),3.5,1,New York,NY,104,132,30+
+Ankura,2.8,1,New York,NY,80.7,102,30+
+Disney Media & Entertainment Distribution,4.1,0,New York,NY,,,30+
+VMware,4.1,1,New York,NY,,,30+
+Field of Talent,,1,New York,NY,,,3
+PineBridge Investments,3.7,1,New York,NY,105,133,30+
+Major League Soccer,,0,New York,NY,84.7,107,7
+EY,4.0,0,New York,NY,,,21
+Loews Hotels & Co.,4.0,1,New York,NY,,,30+
+The Flatiron School,2.0,1,New York,NY,,,30+
+Wavestone,3.7,1,New York,NY,77.8,98.6,30+
+Medreview,3.3,0,New York,NY,76.3,96.5,30+
+Bank of America,3.8,0,New York,NY,144,183,30+
+Mizuho Americas,3.4,0,New York,NY,115,146,7
+Naka Technologies,,0,New York,NY,,,30+
+Wavestone,3.7,0,New York,NY,79.8,101,30+
+Kraken Digital Asset Exchange,2.7,0,New York,NY,,,5
+Brilliant Infotech,,2,New York,NY,,,20
+Federal Reserve Bank of New York,4.1,2,New York,NY,113,143,30+
+Mackenzie Ryan,,0,New York,NY,101,128,29
+Itaú CorpBanca New York Branch,,2,New York,NY,,,2
+"Insight Enterprises, Inc.",3.6,1,New York,NY,,,30+
+Deloitte,3.9,0,New York,NY,132,167,30+
+Recruiting From Scratch,,1,New York,NY,,,30+
+"Beta Plus Technologies, Inc",,0,New York,NY,,,30+
+VMware,4.1,1,New York,NY,102,130,12
+Federal Reserve Bank of New York,4.1,2,New York,NY,100,127,30+
+"Beta Plus Technologies, Inc",,0,New York,NY,,,30+
+VMware,4.1,1,New York,NY,102,130,12
+CLEAR - Corporate,2.6,0,New York,NY,68.9,87.3,30+
+Dutech,,0,New York,NY,,,2
+Mount Sinai,3.8,0,New York,NY,,,16
+Datadog,4.0,0,New York,NY,95.8,121,30+
+Datadog,4.0,2,New York,NY,158,200,30+
+DTCC,3.7,0,New York,NY,74.2,94,27
+Cockroach Labs,,1,New York,NY,154,195,12
+Go2Andaman,,0,New York,NY,112,142,22
+Sotheby's,3.7,1,New York,NY,107,135,30+
+Ankura,2.8,0,New York,NY,73.4,93,20
+Salesforce,4.4,0,New York,NY,,,
+Nomad Health Corporate,3.0,1,New York,NY,111,141,21
+Morgan Stanley,3.8,0,New York,NY,,,30+
+Spring Health,3.3,1,New York,NY,106,135,13
+Splunk,4.2,1,New York,NY,,,30+
+2U Bootcamps,,1,New York,NY,,,30+
+ASC,,1,New York,NY,,,7
+NV5,3.2,1,New York,NY,90.6,115,30+
+Capco,3.3,0,New York,NY,132,168,20
+Columbia University Medical Center,4.1,0,New York,NY,84.8,107,30+
+UBS,3.8,0,New York,NY,105,133,7
+Notion,,0,New York,NY,116,147,23
+SoHo Dragon,,0,New York,NY,101,128,30+
+SOFT Inc,,0,New York,NY,113,143,14
+Citrix,4.0,1,New York,NY,96.7,122,30+
+Amazon.com Services LLC,3.5,0,New York,NY,,,8
+Access Staffing LLC,3.8,0,New York,NY,,,30+
+"Amazon Web Services, Inc.",3.4,0,New York,NY,,,19
+H&M,3.7,2,New York,NY,,,
+Amazon.com Services LLC,3.5,0,New York,NY,,,30+
+"Assured Information Security, Inc",4.9,1,New York,NY,95.7,121,20
+SysMind,3.9,0,New York,NY,,,6
+Cash App,5.0,1,New York,NY,134,170,30+
+City National Bank,3.7,1,New York,NY,,,30+
+David Yurman,3.6,0,New York,NY,86,109,30+
+Experfy Inc,,0,New York,NY,93.8,119,30+
+Reddit,4.0,1,New York,NY,125,158,30+
+Crowe,3.6,1,New York,NY,121,153,30+
+Bank of America,3.8,0,New York,NY,81,103,30+
+Capgemini,3.8,1,New York,NY,97.1,123,30+
+Calibrate,,1,New York,NY,66.3,83.9,30+
+Hiro Systems,,1,New York,NY,111,140,30+
+Allied Universal®,3.1,0,New York,NY,,,
+"Amazon Web Services, Inc.",3.4,0,New York,NY,,,22
+J.S. Held,3.0,0,New York,NY,98.6,125,30+
+MediaMath,3.4,1,New York,NY,109,137,20
+CyberCube,,0,New York,NY,126,160,9
+Cash App,5.0,1,New York,NY,129,163,
+NYU Langone,4.0,0,New York,NY,,,30+
+RingCentral,3.0,2,New York,NY,90.3,114,30+
+"Amazon Dev Center U.S., Inc.",3.5,0,New York,NY,,,8
+Right Talents,,0,New York,NY,,,30+
+Security Innovation,3.5,1,New York,NY,86.9,110,30
+Luttechub,,2,New York,NY,,,14
+Peloton,3.2,1,New York,NY,144,182,10
+Wheels Up,,0,New York,NY,106,134,15
+Meta,4.1,0,New York,NY,140,177,30+
+TikTok,3.3,0,New York,NY,106,134,30+
+KIND,4.1,0,New York,NY,,,30+
+Beckman Coulter Diagnostics,3.6,1,New York,NY,97.4,123,7
+FanDuel,3.8,1,New York,NY,118,150,30+
+NS1,,0,New York,NY,153,193,13
+Paxos,5.0,1,New York,NY,166,211,30+
+Adobe,4.3,0,New York,NY,146,184,
+Exiger,2.6,1,New York,NY,110,140,30+
+Marcum,2.8,1,New York,NY,106,135,30+
+Meta,4.1,0,New York,NY,156,197,30+
+Mastercard,4.0,0,New York,NY,,,7
+Grant Thornton,3.7,0,New York,NY,71.2,90.2,9
+Stack Overflow,3.3,1,New York,NY,,,30+
+Aon Corporation,3.7,2,New York,NY,116,148,30+
+Palo Alto Networks,3.9,1,New York,NY,,,30+
+Morgan Stanley,3.8,0,New York,NY,,,21
+Aon Corporation,3.7,2,New York,NY,116,148,30+
+Palo Alto Networks,3.9,1,New York,NY,,,30+
+Amalgamated Bank of NY,,0,New York,NY,85.7,109,30+
+Hoxton Circle,,3,New York,NY,,,30+
+Crowe,3.6,1,New York,NY,132,167,23
+Lovesac Company,3.2,1,New York,NY,88.5,112,1
+Canonical,3.5,1,New York,NY,107,135,30+
+Datadog,4.0,1,New York,NY,125,159,30+
+Recruiting From Scratch,,1,New York,NY,,,30+
+ThousandEyes,3.5,1,New York,NY,96.7,122,6
+EY,4.0,0,New York,NY,,,30+
+RightTalents LLC,,0,New York,NY,,,2
+KPMG,3.9,1,New York,NY,119,151,21
+Millennium Management LLC,4.0,0,New York,NY,128,162,30+
+Match Group,3.2,0,New York,NY,130,164,21
+KPMG,3.9,1,New York,NY,119,151,21
+Millennium Management LLC,4.0,0,New York,NY,128,162,30+
+MSC Industrial Supply Co.,3.4,1,New York,NY,,,26
+Deloitte,3.9,0,New York,NY,135,172,30+
+Signature Bank,3.4,0,New York,NY,,,1
+Lyxor Asset Management Inc.,,2,New York,NY,,,30+
+"Amazon Dev Center U.S., Inc.",3.5,0,New York,NY,,,30+
+Cardinal Health,3.4,0,New York,NY,75,95,30+
+Nomad Health Corporate,3.0,1,New York,NY,130,165,22
+Trace3,3.1,1,New York,NY,137,174,29
+Infinite Ranges,,0,New York,NY,118,149,4
+Chubb INA Holdings Inc.,3.7,1,New York,NY,119,151,30+
+Bank of America,3.8,0,New York,NY,108,137,30+
+"Everest Consultants, Inc.",,0,New York,NY,103,131,23
+Hudson River Trading,3.5,0,New York,NY,138,175,23
+Iron Shields Information Security,,0,New York,NY,82.6,105,30+
+Arootah LLC,4.8,0,New York,NY,78.7,99.7,30+
+Chainalysis,,1,New York,NY,109,137,9
+Hudson River Trading,3.5,0,New York,NY,134,170,30+
+AMERICAN SOFTWARE LLC,,2,New York,NY,,,22
+Recruiting From Scratch,,1,New York,NY,160,202,30+
+YMCA,4.0,0,New York,NY,,,3
+Warner Music Group,4.1,2,New York,NY,,,22
+Facebook App,4.1,0,New York,NY,,,30+
+WELLS FARGO BANK,3.7,0,New York,NY,,,7
+Related Companies,3.1,0,New York,NY,79.5,101,22
+Peloton,3.2,1,New York,NY,,,10
+WELLS FARGO BANK,3.7,0,New York,NY,,,30+
+Data Industries Ltd,,1,New York,NY,,,21
+Charles River Associates,4.1,0,New York,NY,97,123,30+
+Eclaro,3.9,0,New York,NY,,,7
+Bank of America,3.8,0,New York,NY,114,145,14
+Mandiant,3.5,1,New York,NY,102,129,30+
+Mizuho Americas,3.4,0,New York,NY,,,30+
+Morgan Stanley,3.8,2,New York,NY,,,22
+Thornton Tomasetti,4.1,0,New York,NY,87.4,111,9
+"Amazon Dev Center U.S., Inc.",3.5,0,New York,NY,,,30+
+Palo Alto Networks,3.9,1,New York,NY,,,
+Genpact,3.8,3,New York,NY,,,1
+HSBC,4.0,0,New York,NY,,,1
+Taiwan Business Bank New York Branch,,0,New York,NY,,,12
+Cognizant,3.9,0,New York,NY,,,19
+CAPCO,3.3,0,New York,NY,93.8,119,22
+Citi,3.9,0,New York,NY,,,
+Crowe,3.6,1,New York,NY,99.5,126,11
+"Consolidated Edison Company of New York, Inc.",4.1,0,New York,NY,101,128,2
+Brookfield Renewable,3.9,0,New York,NY,120,152,30+
+"FROM, The Digital Transformation Agency",,0,New York,NY,,,
+Unstoppable Domains,4.0,1,New York,NY,139,176,30+
+BlackRock,3.8,0,New York,NY,112,142,30+
+Cardinal Health,3.4,0,New York,NY,111,140,30+
+Secureapp Technologies,5.0,0,New York,NY,140,177,30+
+Allied Universal®,3.1,0,New York,NY,,,1
+Palo Alto Networks,3.9,1,New York,NY,,,16
+Bloomberg,3.9,0,New York,NY,127,161,30+
+Paxos,5.0,1,New York,NY,162,205,29
+National Football League,4.4,0,New York,NY,99.3,126,3
+Index Exchange,,1,New York,NY,180,228,30+
+SOFT Inc,,0,New York,NY,86.1,109,28
+Hiro Systems,,1,New York,NY,100,127,30+
+SOFT Inc,,0,New York,NY,86.1,109,28
+Skillshare,4.3,1,New York,NY,139,176,30+
+GHSL technologies,,0,New York,NY,112,141,2
+Palo Alto Networks,3.9,0,New York,NY,,,
+Intone Networks,4.2,2,New York,NY,121,153,8
+Deloitte,3.9,0,New York,NY,127,160,12
+Change Healthcare,3.0,1,New York,NY,,,30+
+Major League Soccer,3.9,0,New York,NY,85.4,108,30+
+Soho Square Solutions,,0,New York,NY,,,9
+EY,4.0,0,New York,NY,,,30+
+Spring Health,3.3,1,New York,NY,122,154,30+
+Volto USA,,0,New York,NY,,,
+Middesk,,0,New York,NY,98,124,30+
+NYC Careers,2.5,0,New York,NY,,,23
+Hudson River Trading,3.5,0,New York,NY,106,134,30+
+Deloitte,3.9,0,New York,NY,143,181,22
+Braze,4.7,1,New York,NY,76,96.2,30+
+"JPMorgan Chase Bank, N.A.",3.8,0,New York,NY,,,5
+Management Science and Solutions,,2,New York,NY,,,1
+Zocdoc,3.4,2,New York,NY,138,175,30+
+Mount Sinai,3.8,1,New York,NY,,,30+
+Beta Search,,0,New York,NY,106,135,30+
+"FTI Consulting, Inc.",3.6,1,New York,NY,135,171,15
+Bloomberg,3.9,0,New York,NY,116,147,30+
+B&H Photo,3.3,0,New York,NY,105,133,21
+Morgan Stanley,3.8,0,New York,NY,,,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,169,214,2
+The City University of New York (CUNY),3.9,2,New York,NY,,,8
+Mizuho Americas,3.4,0,New York,NY,139,176,21
+Interpublic Group,3.8,0,New York,NY,84.5,107,9
+The City University of New York (CUNY),3.9,2,New York,NY,,,8
+Mizuho Americas,3.4,0,New York,NY,139,176,21
+Spotnana Technology,,1,New York,NY,159,201,15
+Crowe,3.6,1,New York,NY,143,181,11
+Morgan Stanley,3.8,0,New York,NY,,,30+
+Broadridge,3.6,0,New York,NY,94.3,119,30+
+Ramp Financial,,1,New York,NY,164,208,30+
+CME Group,4.1,0,New York,NY,86.3,109,30+
+Talan,3.1,0,New York,NY,,,7
+"Amazon Dev Center U.S., Inc.",3.5,0,New York,NY,,,30+
+"The Segal Group, Inc.",,0,New York,NY,101,128,30+
+Morgan Stanley,3.8,0,New York,NY,,,30+
+International Rescue Committee,4.2,2,New York,NY,,,30+
+PROMENET,3.2,0,New York,NY,94.6,120,30+
+GE Renewable Energy,3.7,1,New York,NY,111,140,20
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,,,26
+Mandiant,3.5,1,New York,NY,96.1,122,21
+Albert,,1,New York,NY,150,191,30+
+KANTAR,3.7,1,New York,NY,113,143,30+
+Cash App,5.0,1,New York,NY,139,176,14
+Guidehouse,3.3,1,New York,NY,,,22
+Morgan Stanley,3.8,2,New York,NY,,,1
+Saks,3.3,0,New York,NY,73.1,92.5,15
+Crowe,3.6,1,New York,NY,96,122,30+
+CrowdStrike,3.3,1,New York,NY,116,147,30+
+Experfy Inc,,0,New York,NY,104,132,30+
+Twilio,3.8,1,New York,NY,,,6
+KPMG,3.9,0,New York,NY,132,167,30+
+Michael Page,3.5,2,New York,NY,,,
+Rockstar Games,4.0,0,New York,NY,83,105,30+
+Palo Alto Networks,3.9,1,New York,NY,,,15
+Cardinal Health,3.4,0,New York,NY,110,140,30+
+Circle,3.7,1,New York,NY,108,137,28
+Touro University New York,,0,New York,NY,,,30+
+Headway,2.3,1,New York,NY,143,181,30+
+DataAxxis,,2,New York,NY,,,1
+New York University,4.2,0,New York,NY,,,30+
+First Republic Bank,3.9,2,New York,NY,,,30+
+BANCO DO BRASIL S/A,4.6,0,New York,NY,,,22
+Deloitte,3.9,0,New York,NY,99,125,30+
+Right Talents,,0,New York,NY,141,178,1
+TIAA,3.7,0,New York,NY,,,1
+K Health,1.9,0,New York,NY,96.3,122,30+
+Maven Clinic,4.5,1,New York,NY,126,159,30+
+Amazon.com Services LLC,3.5,0,New York,NY,,,30+
+REFORM Alliance,,0,New York,NY,59.7,75.5,13
+SoFi,3.3,1,New York,NY,105,133,30+
+Tia,,1,New York,NY,121,153,30+
+Deloitte,3.9,0,New York,NY,,,30+
+Array,,1,New York,NY,146,185,30+
+Block,,0,New York,NY,131,166,8
+GameChanger,4.0,0,New York,NY,134,170,30+
+Municipal Credit Union,3.2,0,New York,NY,105,133,6
+Ramp Financial,,1,New York,NY,92,116,30+
+KPMG,3.9,0,New York,NY,119,151,9
+Goldman Sachs,4.0,0,New York,NY,,,3
+CrossCountry Consulting,4.3,2,New York,NY,,,23
+Capital One,3.9,1,New York,NY,102,130,3
+Grant Thornton,3.7,0,New York,NY,100,127,30+
+VMware,4.1,1,New York,NY,124,157,30+
+"Consolidated Edison Company of New York, Inc.",4.1,0,New York,NY,95.1,120,30+
+nFrastructure,3.8,1,New York,NY,,,30+
+Deloitte,3.9,0,New York,NY,90.3,114,30+
+QVC,3.6,0,New York,NY,,,30+
+Matter,4.2,1,New York,NY,72.6,92,30+
+Bloomberg,3.9,0,New York,NY,138,175,30+
+Citi,3.9,0,New York,NY,,,23
+Taiwan Cooperative Bank New York Branch,,0,New York,NY,,,2
+ZS,3.6,0,New York,NY,135,171,7
+Touro College New York,3.8,0,New York,NY,71.7,90.9,30+
+Hudson River Trading,3.5,0,New York,NY,133,168,30+
+DocGo,4.2,0,New York,NY,,,30+
+Right Talents,,0,New York,NY,,,30+
+Uber,3.6,2,New York,NY,112,141,30+
+Visa,3.9,2,New York,NY,98.7,125,30+
+Right Talents,,0,New York,NY,,,30+
+Uber,3.6,2,New York,NY,112,141,30+
+Cognizant Technology Solutions,3.9,0,New York,NY,,,19
+Rmour LLC,,0,New York,NY,,,21
+Amazon.com Services LLC,3.5,0,New York,NY,,,30+
+Bank of America,3.8,0,New York,NY,120,153,30+
+Amazon.com Services LLC,3.5,0,New York,NY,,,30+
+Boston Consulting Group,4.2,0,New York,NY,112,142,30+
+Insight Global,3.9,1,New York,NY,,,14
+Consensys,3.4,0,New York,NY,,,30
+Intuit,4.2,0,New York,NY,104,132,30+
+Morgan Stanley,3.8,0,New York,NY,,,9
+Deloitte,3.9,0,New York,NY,,,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,124,157,2
+New York University,4.2,2,New York,NY,,,30+
+"JPMorgan Chase Bank, N.A.",3.8,0,New York,NY,,,8
+Liberty Personnel Services,4.5,0,New York,NY,,,23
+The Clearing House Payments Company,,0,New York,NY,,,7
+Stifel,3.9,0,New York,NY,48.6,61.6,19
+NMG Technology Services,,0,New York,NY,,,10
+DigitalOcean,3.9,1,New York,NY,120,151,30+
+Amazon.com Services LLC,3.5,0,New York,NY,,,30+
+Flow Traders,,0,New York,NY,127,161,30+
+Bloomberg,3.9,0,New York,NY,80.3,102,24
+Bank of China,4.0,0,New York,NY,,,22
+Denodo Technologies,,0,New York,NY,104,131,30+
+Emigrant Bank,3.3,0,New York,NY,86.9,110,30+
+Mastercard,4.0,0,New York,NY,,,30+
+CAPCO,3.3,0,New York,NY,146,185,14
+Capital One,3.9,0,New York,NY,118,149,7
+Mastercard,4.0,0,New York,NY,,,30+
+CAPCO,3.3,0,New York,NY,146,185,14
+Broadridge,3.6,0,New York,NY,124,157,15
+"Atlas Air, Inc",3.6,0,New York,NY,,,26
+Right Talents,,0,New York,NY,118,150,1
+Success Academy,2.5,0,New York,NY,50.5,63.9,30+
+Iron Shields Information Security,,0,New York,NY,105,133,30+
+Grant Thornton,3.7,0,New York,NY,132,167,30+
+Center for Employment Opportunities,4.1,0,New York,NY,,,30+
+Iron Shields Information Security,,0,New York,NY,134,170,30+
+Red River,3.3,0,New York,NY,,,2
+Amazon.com Services LLC,3.5,0,New York,NY,,,30+
+CDW,3.7,0,New York,NY,75.5,95.5,30+
+PA Consulting,3.8,0,New York,NY,101,127,21
+Zynga,3.8,1,New York,NY,133,168,
+Deloitte,3.9,0,New York,NY,140,178,30+
+Deloitte,3.9,0,New York,NY,100,127,30+
+Hospital for Special Surgery,4.2,0,New York,NY,104,131,30+
+Landis,,1,New York,NY,126,160,30+
+Noodle,4.8,0,New York,NY,,,12
+Bank of America,3.8,0,New York,NY,,,22
+McKinsey & Company,4.3,0,New York,NY,104,131,30+
+Crédit Agricole CIB,3.8,0,New York,NY,129,164,30+
+Boxed,3.4,0,New York,NY,139,176,10
+Building Service 32BJ Benefit Funds,3.5,0,New York,NY,,,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,102,129,30+
+Trace3,3.1,1,New York,NY,128,162,14
+AIG,3.7,2,New York,NY,,,30+
+CLEAR - Corporate,2.6,2,New York,NY,97.8,124,10
+"JPMorgan Chase Bank, N.A.",3.8,0,New York,NY,,,16
+Trace3,3.1,1,New York,NY,128,162,14
+"JPMorgan Chase Bank, N.A.",3.8,0,New York,NY,,,16
+AIG,3.7,2,New York,NY,,,30+
+CLEAR - Corporate,2.6,2,New York,NY,97.8,124,10
+NetworkCPR Inc,,0,New York,NY,,,1
+Starr Companies,3.8,0,New York,NY,114,145,30+
+BDO,3.6,0,New York,NY,68.8,87.2,30+
+Pixoul,,0,New York,NY,,,5
+SoHo Dragon,,0,New York,NY,117,148,13
+New York Life Insurance Co,3.7,3,New York,NY,,,30+
+McKinsey & Company,4.3,0,New York,NY,103,131,30+
+Deutsche Bank,3.8,0,New York,NY,110,140,13
+Axiom Talent Platform,,0,New York,NY,,,30+
+EY,4.0,0,New York,NY,,,30+
+Taskrabbit,3.4,0,New York,NY,148,187,5
+"Richard Fleischman & Associates, Inc.",,0,New York,NY,81.7,103,30+
+People Strata,,1,New York,NY,123,156,30+
+MongoDB,3.7,1,New York,NY,139,176,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,105,133,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,153,194,30+
+Resiliam,,0,New York,NY,90.1,114,14
+Mandiant,3.5,1,New York,NY,,,30+
+Touro University New York,,1,New York,NY,113,143,30+
+"CGI Group, Inc.",3.6,0,New York,NY,,,30+
+Bank of China,4.0,0,New York,NY,90.4,114,9
+Cowen,4.0,0,New York,NY,119,151,15
+Certec Consulting,,0,New York,NY,114,144,19
+Lazard Ltd.,3.9,0,New York,NY,81.3,103,19
+The Empire State Realty Trust,,2,New York,NY,131,166,30+
+Accenture,4.0,0,New York,NY,,,30+
+Amazon.com Services LLC,3.5,0,New York,NY,,,28
+Amazon.com Services LLC,3.5,0,New York,NY,,,30+
+Deloitte,3.9,0,New York,NY,108,137,30+
+Bank of the West,3.4,1,New York,NY,105,133,30+
+ASCAP,3.6,0,New York,NY,138,174,30+
+Steel Perlot,,1,New York,NY,114,144,30+
+Morgan Stanley,3.8,2,New York,NY,,,5
+Intelatek Solutions,,0,New York,NY,145,184,30+
+Cockroach Labs,,1,New York,NY,138,175,18
+Accenture,4.0,0,New York,NY,,,5
+KPMG,3.9,0,New York,NY,116,147,30+
+Tassat Group Inc.,,0,New York,NY,114,144,30+
+"Amazon Dev Center U.S., Inc.",3.5,0,New York,NY,,,30+
+"Focused Cyber, LLC",,0,New York,NY,51.2,64.8,30+
+Kforce,3.8,0,New York,NY,,,13
+Ropes & Gray,3.7,0,New York,NY,77.2,97.8,1
+EY,4.0,0,New York,NY,,,30+
+Weill Cornell Medicine,3.6,0,New York,NY,78.2,99,29
+Lloyds Banking Group,3.7,0,New York,NY,77,97.6,19
+Vimeo,,1,New York,NY,,,30+
+Publicis Re:Sources Global,,0,New York,NY,103,131,5
+Bloomberg,3.9,0,New York,NY,,,30+
+Arootah LLC,4.8,0,New York,NY,,,30+
+Société Générale,3.8,0,New York,NY,,,11
+CB Insights,4.1,1,New York,NY,,,30+
+Spruce Technology,3.7,0,New York,NY,120,152,30+
+BNY Mellon,3.5,0,New York,NY,,,3
+FanDuel,3.8,1,New York,NY,113,143,30+
+EisnerAmper LLP,3.6,1,New York,NY,159,201,30+
+Capgemini,3.8,0,New York,NY,113,143,2
+KPMG,3.9,0,New York,NY,81.2,103,30+
+Yeshiva University,3.8,0,New York,NY,,,30+
+Launch Potato,,1,New York,NY,81,103,20
+New York University,4.2,2,New York,NY,,,30+
+Crédit Agricole CIB,3.8,0,New York,NY,,,30+
+Hughes Hubbard & Reed LLP,3.2,0,New York,NY,,,30+
+Accenture,4.0,0,New York,NY,,,9
+Aspen Capital,3.3,0,New York,NY,,,30+
+StubHub,3.8,0,New York,NY,,,21
+MoneyLion,3.3,0,New York,NY,119,151,8
+Palo Alto Networks,3.9,1,New York,NY,,,30+
+Crowe,3.6,1,New York,NY,123,156,11
+BARK,,1,New York,NY,85.7,109,30+
+Michael Page,3.5,0,New York,NY,,,30+
+"Evergreen Technologies, LLC.",,1,New York,NY,104,132,9
+Deloitte,3.9,0,New York,NY,105,133,30+
+Citi,3.9,0,New York,NY,,,30+
+Trace3,3.1,0,New York,NY,133,169,30+
+STAND 8,,0,New York,NY,104,131,9
+Endpoint Closing,3.7,1,New York,NY,122,154,6
+Deloitte,3.9,0,New York,NY,151,191,30+
+First Republic Bank,3.9,2,New York,NY,,,30+
+MUFG,3.4,2,New York,NY,97.1,123,30+
+Vanguard-IP,,0,New York,NY,139,176,25
+Bank of China,4.0,0,New York,NY,72.2,91.4,27
+Tandym Group,3.8,0,New York,NY,101,129,30+
+Veeva Systems,3.8,0,New York,NY,110,140,30+
+Horizon Corp,,0,New York,NY,107,136,
+Realign LLC,,0,New York,NY,146,184,30+
+Brilliant Infotech,,0,New York,NY,110,140,20
+Sourcepoint,1.3,0,New York,NY,,,30+
+WELLS FARGO BANK,3.7,0,New York,NY,,,12
+Foursquare,4.0,0,New York,NY,121,153,30+
+Citi,3.9,0,New York,NY,,,30+
+Citi,3.9,0,New York,NY,,,
+Strategic Funding Source,3.2,0,New York,NY,96.9,123,30+
+"FTI Consulting, Inc.",3.6,1,New York,NY,86.3,109,15
+Friedman LLP,3.8,0,New York,NY,71.5,90.5,30+
+Amex,4.1,0,New York,NY,,,12
+Justworks,4.2,2,New York,NY,122,155,30+
+Bloomberg,3.9,0,New York,NY,109,138,30+
+West Monroe,3.9,2,New York,NY,122,154,30+
+"FTI Consulting, Inc.",3.6,1,New York,NY,150,189,15
+Danaher Corporation,3.6,0,New York,NY,115,146,27
+KPMG,3.9,0,New York,NY,91.1,115,30+
+West Monroe,3.9,2,New York,NY,122,154,30+
+KPMG,3.9,0,New York,NY,91.1,115,30+
+Danaher Corporation,3.6,0,New York,NY,115,146,27
+PRICE WATERHOUSE COOPERS,4.0,1,New York,NY,92.8,117,30+
+Justworks,4.2,0,New York,NY,147,186,30+
+BNY Mellon,3.5,0,New York,NY,,,30+
+Robert Half,3.9,0,New York,NY,,,30+
+Deloitte,3.9,0,New York,NY,156,197,30+
+"Genesis Global Trading, Inc.",,0,New York,NY,126,160,30+
+Brown Brothers Harriman,3.6,0,New York,NY,100,127,30+
+Amalgamated Bank of NY,,0,New York,NY,117,149,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,139,175,30+
+DigitalOcean,3.9,1,New York,NY,125,158,30+
+"Security Innovation, Inc.",,0,New York,NY,112,142,30+
+PRICE WATERHOUSE COOPERS,4.0,2,New York,NY,86.7,110,20
+Protochain Research,,0,New York,NY,125,159,27
+"Arganteal, Corp.",,0,New York,NY,107,136,30+
+Raag Solutions,,0,New York,NY,126,159,7
+BNY Mellon,3.5,0,New York,NY,,,30+
+"Amazon Dev Center U.S., Inc.",3.5,0,New York,NY,,,28
+Bloomberg,3.9,0,New York,NY,128,162,30+
+VMware,4.1,1,New York,NY,103,130,30+
+TD Bank,3.8,0,New York,NY,,,30+
+Amex,4.1,0,New York,NY,,,30+
+Bloomberg,3.9,0,New York,NY,,,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,151,192,30+
+Citi,3.9,0,New York,NY,,,30+
+Ramp Financial,,1,New York,NY,175,221,30+
+Starr Companies,3.8,0,New York,NY,98.2,124,14
+Citi,3.9,0,New York,NY,,,30+
+Ramp Financial,,1,New York,NY,175,221,30+
+Starr Companies,3.8,0,New York,NY,98.2,124,14
+StoneTurn Group LLP,3.0,0,New York,NY,127,161,30+
+Sia Partners,3.7,0,New York,NY,89.8,114,30+
+T&M Protection Resources,3.8,0,New York,NY,125,159,30+
+McKinsey & Company,4.3,0,New York,NY,83.4,106,30+
+Dataminr,3.8,1,New York,NY,,,13
+Chobani,3.7,0,New York,NY,101,128,30+
+Bloomberg,3.9,0,New York,NY,129,163,30+
+CohnReznick,3.5,1,New York,NY,96.5,122,30+
+K2 Integrity,3.5,0,New York,NY,96.6,122,30+
+EY,4.0,0,New York,NY,,,2
+Yext,4.0,0,New York,NY,140,177,30+
+IDB,3.7,0,New York,NY,61.8,78.2,30+
+Vaco,3.7,0,New York,NY,,,21
+CohnReznick,3.5,1,New York,NY,96.5,122,30+
+K2 Integrity,3.5,0,New York,NY,96.6,122,30+
+EY,4.0,0,New York,NY,,,2
+Yext,4.0,0,New York,NY,140,177,30+
+IDB,3.7,0,New York,NY,61.8,78.2,30+
+Palo Alto Networks,3.9,1,New York,NY,,,15
+Justworks,4.2,0,New York,NY,131,166,30+
+Pace University,4.2,0,New York,NY,,,30+
+The City University of New York (CUNY),3.9,0,New York,NY,,,12
+Tandym Group,3.8,0,New York,NY,119,151,27
+Credit Suisse,3.9,0,New York,NY,129,164,30+
+Seternity Solutions,,0,New York,NY,,,9
+EY,4.0,0,New York,NY,,,5
+Wipro Limited,3.8,0,New York,NY,92.9,118,30+
+MongoDB,3.7,1,New York,NY,129,164,30+
+Chainalysis Inc.,,1,New York,NY,134,170,8
+News Corp,3.8,0,New York,NY,97.8,124,30+
+BDO,3.6,0,New York,NY,117,149,30+
+KPMG,3.9,0,New York,NY,79.5,101,15
+coty,3.0,0,New York,NY,82.8,105,30+
+"Peace of Mind Technologies, LLC",,0,New York,NY,75.8,96,30+
+Amazon.com Services LLC,3.5,0,New York,NY,,,30+
+Cognizant Technology Solutions,3.9,1,New York,NY,,,30+
+The Flatiron School,2.0,0,New York,NY,,,30+
+NYU Langone,4.0,0,New York,NY,,,30+
+Crowe,3.6,1,New York,NY,107,135,30+
+Oliver Wyman Group,4.0,0,New York,NY,79.3,100,30+
+"NauWork, LLC",,0,New York,NY,,,30+
+Citi,3.9,0,New York,NY,,,30+
+Robert Half,3.9,0,New York,NY,,,30+
+"Richard Fleischman & Associates, Inc.",,0,New York,NY,100,127,30+
+Chameleon Consulting Group,,0,New York,NY,124,157,30+
+Ryder System,3.3,1,New York,NY,,,30+
+Orange Business Services,4.1,0,New York,NY,101,128,22
+Mother Cabrini Health Foundation,,0,New York,NY,62.5,79.1,30+
+Fox Corporation,4.0,0,New York,NY,,,15
+Edelman,3.7,2,New York,NY,,,15
+SoHo Dragon,,0,New York,NY,119,151,30+
+Celonis SE,,0,New York,NY,135,170,30+
+Socure,,1,New York,NY,,,30+
+Fenwick & West LLP,,0,New York,NY,111,141,30+
+Accenture,4.0,0,New York,NY,,,8
+The Goodkind Group-Post HERE,3.7,0,New York,NY,,,14
+WPP,4.0,2,New York,NY,,,30+
+GoHealth Urgent Care,2.6,0,New York,NY,,,30+
+Chobani,3.7,0,New York,NY,93.6,119,30+
+Morgan Stanley,3.8,0,New York,NY,,,30+
+Match Group,3.2,0,New York,NY,109,138,30+
+Accenture,4.0,0,New York,NY,,,30+
+Barracuda Networks Inc.,3.4,0,New York,NY,,,22
+BNY Mellon,3.5,0,New York,NY,,,30+
+EXL Services,3.8,1,New York,NY,123,156,9
+KPMG,3.9,0,New York,NY,,,30+
+Cognizant Technology Solutions,3.9,1,New York,NY,,,15
+Finra,3.8,2,New York,NY,90.3,114,30+
+Acronis,3.1,1,New York,NY,,,30+
+SOFT Inc,,0,New York,NY,108,137,14
+Brown Brothers Harriman,3.6,0,New York,NY,84.2,107,30+
+KPMG,3.9,0,New York,NY,133,168,30+
+STAND 8,,0,New York,NY,107,136,30
+ASRC Federal Holding Company,3.5,0,New York,NY,,,1
+"TraceLink, Inc.",2.5,0,New York,NY,103,131,30+
+Carrier,3.9,1,New York,NY,,,30
+Amazon.com Services LLC,3.5,0,New York,NY,,,30+
+EY,4.0,0,New York,NY,,,5
+A-LIGN External,,1,New York,NY,90,114,30+
+Citi,3.9,0,New York,NY,,,12
+PRICE WATERHOUSE COOPERS,4.0,1,New York,NY,86.5,110,30+
+Loews Hotels & Co.,4.0,0,New York,NY,,,13
+BNY Mellon,3.5,0,New York,NY,,,30+
+Insight Global,3.9,0,New York,NY,,,
+Bank of China,4.0,0,New York,NY,107,136,9
+Oliver Wyman Group,4.0,0,New York,NY,107,136,30+
+Hospital for Special Surgery,4.2,0,New York,NY,121,153,30+
+Fitch Group,4.5,2,New York,NY,,,30+
+Oliver Wyman Group,4.0,0,New York,NY,107,136,30+
+Hospital for Special Surgery,4.2,0,New York,NY,121,153,30+
+"Nomura Holdings, Inc.",3.9,0,New York,NY,123,156,30+
+New York Life Insurance Co,3.7,0,New York,NY,,,30+
+"Baker Tilly US, LLP",3.8,0,New York,NY,,,30+
+Citi,3.9,0,New York,NY,,,30+
+Redis,3.6,1,New York,NY,,,9
+BNY Mellon,3.5,0,New York,NY,,,30+
+Société Générale,3.8,2,New York,NY,127,160,30+
+"JPMorgan Chase Bank, N.A.",3.8,0,New York,NY,,,2
+CoreBlox,,0,New York,NY,117,149,30+
+Amalgamated Bank of NY,3.0,0,New York,NY,99.3,126,30+
+The Goodkind Group-Post HERE,3.7,0,New York,NY,,,14
+Citi,3.9,0,New York,NY,,,29
+Scotiabank,3.9,0,New York,NY,,,15
+Milbank LLP,3.9,0,New York,NY,121,153,30+
+Varo Bank,3.1,0,New York,NY,130,165,23
+New York Life Insurance Co,3.7,0,New York,NY,,,30+
+Scotiabank,3.9,0,New York,NY,,,7
+"JPMorgan Chase Bank, N.A.",3.8,0,New York,NY,,,17
+Point B,4.0,0,New York,NY,96.1,122,30+
+WELLS FARGO BANK,3.7,0,New York,NY,,,30+
+Oliver Wyman Group,4.0,0,New York,NY,,,30+
+Pico,3.8,0,New York,NY,107,136,30+
+Mount Sinai,3.8,0,New York,NY,,,30+
+B. Riley Financial Inc.,,0,New York,NY,74.8,94.8,30+
+PRICE WATERHOUSE COOPERS,4.0,1,New York,NY,135,171,30+
+The Goodkind Group-Post HERE,3.7,0,New York,NY,,,14
+CME Group,4.1,2,New York,NY,95.7,121,27
+MetLife,3.8,0,New York,NY,,,30+
+WELLS FARGO BANK,3.7,0,New York,NY,,,30+
+Oliver Wyman Group,4.0,0,New York,NY,,,30+
+Pico,3.8,0,New York,NY,107,136,30+
+Mount Sinai,3.8,0,New York,NY,,,30+
+B. Riley Financial Inc.,,0,New York,NY,74.8,94.8,30+
+PRICE WATERHOUSE COOPERS,4.0,1,New York,NY,135,171,30+
+MetLife,3.8,0,New York,NY,,,30+
+CME Group,4.1,2,New York,NY,95.7,121,27
+ZM Financial Systems,,0,New York,NY,,,30+
+Mizuho Americas,3.4,0,New York,NY,118,149,30+
+Crowe,3.6,1,New York,NY,126,160,7
+"Tenable, Inc",3.3,0,New York,NY,89.1,113,30+
+Tradeweb Markets LLC,3.7,2,New York,NY,,,30+
+MUFG,3.4,0,New York,NY,122,154,19
+Crédit Agricole CIB,3.8,0,New York,NY,108,137,30+
+Axiom Law,3.1,0,New York,NY,,,30+
+Atlas Technica,4.7,0,New York,NY,96.1,122,30+
+Deloitte,3.9,0,New York,NY,149,189,30+
+CIBC,3.8,0,New York,NY,,,30+
+Trace3,3.1,0,New York,NY,,,30+
+EY,4.0,0,New York,NY,,,4
+Deloitte,3.9,0,New York,NY,138,175,30+
+CME Management,4.1,2,New York,NY,103,130,30+
+Trace3,3.1,1,New York,NY,119,151,30+
+Arup,4.1,0,New York,NY,104,132,13
+Marsh,3.7,0,New York,NY,88.9,113,28
+KPMG,3.9,0,New York,NY,134,170,30+
+Accenture,4.0,0,New York,NY,,,30+
+WELLS FARGO BANK,3.7,0,New York,NY,,,30+
+Insight Global,3.9,0,New York,NY,,,
+KPMG,3.9,0,New York,NY,134,170,30+
+Accenture,4.0,0,New York,NY,,,30+
+WELLS FARGO BANK,3.7,0,New York,NY,,,30+
+KPMG,3.9,0,New York,NY,125,159,9
+CohnReznick,3.5,0,New York,NY,141,179,30+
+Bloomberg,3.9,0,New York,NY,137,174,30+
+New York Life Insurance Co,3.7,0,New York,NY,,,30+
+Crowe,3.6,0,New York,NY,116,147,30+
+Deloitte,3.9,0,New York,NY,149,188,30+
+Oliver Wyman Group,4.0,0,New York,NY,,,30+
+EY,4.0,0,New York,NY,,,30+
+Deloitte,3.9,0,New York,NY,90.9,115,30+
+Wolters Kluwer,3.6,0,New York,NY,,,30+
+Deloitte,3.9,0,New York,NY,145,184,30+
+Roanoke Brokerage Service,,0,New York,NY,,,30+
+Credit Suisse,3.9,0,New York,NY,,,30+
+Northwestern Mutual,3.8,0,New York,NY,,,7
+Citi,3.9,0,New York,NY,,,30+
+ThreatWarrior,,0,New York,NY,,,30+
+Optiv,3.2,0,New York,NY,110,140,30+
+BNY Mellon,3.5,0,New York,NY,,,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,128,162,22
+Accenture,4.0,0,New York,NY,,,30+
+MetroPlus Health Plan,2.9,0,New York,NY,,,30+
+Northwestern Mutual,3.8,0,New York,NY,,,30+
+New York Life Insurance Co,3.7,0,New York,NY,,,8
+Citi,3.9,0,New York,NY,,,3
+MMC Corporate,3.7,0,New York,NY,,,30+
+CDW,3.7,0,New York,NY,135,171,30+
+Loews Hotels & Co.,4.0,0,New York,NY,,,28
+Justworks,4.2,2,New York,NY,79.7,101,30+
+"STIGroup, Ltd.",,0,New York,NY,115,146,30+
+CrossCountry Consulting,4.3,0,New York,NY,119,150,30+
+Fox Corporation,4.0,0,New York,NY,,,15
+CME Management,4.1,2,New York,NY,102,130,30+
+RSM US LLP,3.6,0,New York,NY,,,6
+PCAOB,3.8,0,New York,NY,,,30+
+Citi,3.9,0,New York,NY,,,30+
+"Everest Consultants, Inc.",,0,New York,NY,103,131,23
+New York County District Attorney's Office,4.3,0,New York,NY,,,5
+EY,4.0,0,New York,NY,,,30+
+RSM US LLP,3.6,0,New York,NY,145,184,30+
+Deloitte,3.9,0,New York,NY,,,30+
+Deloitte,3.9,0,New York,NY,113,143,30+
+KPMG,3.9,0,New York,NY,86.9,110,15
+KPMG,3.9,0,New York,NY,152,192,30+
+"Amazon Dev Center U.S., Inc.",3.5,0,New York,NY,,,30+
+Weill Cornell Medicine,3.6,0,New York,NY,83.8,106,29
+KPMG,3.9,0,New York,NY,,,30+
+RSM US LLP,3.6,0,New York,NY,137,174,30+
+Deloitte,3.9,0,New York,NY,153,194,30+
+ePlus inc.,3.6,2,New York,NY,138,175,15
+Deutsche Bank,3.8,0,New York,NY,102,129,30+
+CrossCountry Consulting,4.3,0,New York,NY,118,149,30+
+Citi,3.9,0,New York,NY,,,30+
+Silicon Valley Bank,3.8,1,New York,NY,,,30+
+Scotiabank,3.9,0,New York,NY,,,26
+Qcentrio,3.0,0,New York,NY,63.1,79.9,30+
+Deloitte,3.9,0,New York,NY,112,141,30+
+"Yoh, A Day & Zimmermann Company",3.7,1,New York,NY,,,14
+Citi,3.9,0,New York,NY,,,30+
+Silicon Valley Bank,3.8,1,New York,NY,,,30+
+Scotiabank,3.9,0,New York,NY,,,26
+Qcentrio,3.0,0,New York,NY,63.1,79.9,30+
+Deloitte,3.9,0,New York,NY,112,141,30+
+Alvarez & Marsal,3.6,0,New York,NY,124,156,30+
+Bank of America,3.8,0,New York,NY,,,30+
+KPMG,3.9,0,New York,NY,101,128,30+
+Citi,3.9,0,New York,NY,,,30+
+Protiviti,3.6,2,New York,NY,,,30+
+BDO,3.6,0,New York,NY,91.3,116,30+
+Deloitte,3.9,0,New York,NY,121,154,30+
+Deloitte,3.9,0,New York,NY,,,30+
+Circle,3.7,1,New York,NY,111,140,30+
+Recruitics,3.5,0,New York,NY,,,30+
+RSM US LLP,3.6,0,New York,NY,,,30
+EisnerAmper LLP,3.6,0,New York,NY,,,30+
+PTYTECH LLC,,0,New York,NY,129,164,30+
+EisnerAmper LLP,3.6,0,New York,NY,,,30+
+RSM US LLP,3.6,0,New York,NY,98.8,125,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,131,165,30+
+EY,4.0,0,New York,NY,,,30+
+Danaher Corporation,3.6,0,New York,NY,102,129,30+
+MomentoUSA,,0,New York,NY,129,163,30+
+Liberty Personnel Services,4.5,0,New York,NY,,,30+
+Worldgroup Careers MWT,4.0,0,New York,NY,65.4,82.8,22
+Accrete,,0,New York,NY,119,151,30+
+NYU Langone Health,4.0,0,New York,NY,,,30+
+PTYTECH LLC,,0,New York,NY,113,142,30+
+Sia Partners,3.7,0,New York,NY,97.8,124,30+
+Sia Partners,3.7,0,New York,NY,97.8,124,30+
+PTYTECH LLC,,0,New York,NY,113,142,30+
+Silicon Valley Bank,3.8,0,New York,NY,,,30+
+Advisor Group,3.4,0,New York,NY,,,26
+Experfy Inc,,0,New York,NY,127,161,30+
+Crowe,3.6,1,New York,NY,82,104,30+
+EisnerAmper LLP,3.6,0,New York,NY,,,30+
+RSM US LLP,3.6,0,New York,NY,98.8,125,30+
+Sumitomo Mitsui Banking Corporation,3.4,0,New York,NY,131,165,30+
+EY,4.0,0,New York,NY,,,30+
+Danaher Corporation,3.6,0,New York,NY,102,129,30+
+MomentoUSA,,0,New York,NY,129,163,30+
+Worldgroup Careers MWT,4.0,0,New York,NY,65.4,82.8,22
+Accrete,,0,New York,NY,119,151,30+
+WELLS FARGO BANK,3.7,0,New York,NY,,,30+
+Sia Partners,3.7,0,New York,NY,97.8,124,30+
+PTYTECH LLC,,0,New York,NY,113,142,30+
+Silicon Valley Bank,3.8,0,New York,NY,,,30+
+Experfy Inc,,0,New York,NY,127,161,30+
+Crowe,3.6,1,New York,NY,82,104,30+
+Advisor Group,3.4,0,New York,NY,,,26
