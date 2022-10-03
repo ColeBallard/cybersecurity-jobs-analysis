@@ -6,9 +6,9 @@ headers = {'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.
 
 jobs_obj = []
 
-for pagenum in range(0, 20):
+for pagenum in range(0, 11):
     # job range within 25 miles
-    url = f'http://www.indeed.com/jobs?q=cyber+security&l=Minneapolis%2C+MN&start={pagenum*10}'
+    url = f'http://www.indeed.com/jobs?q=cyber+security&l=Milwaukee%2C+WI&start={pagenum*10}'
 
     response = requests.get(url, headers=headers)
 
@@ -62,5 +62,5 @@ for pagenum in range(0, 20):
 
         jobs_obj.append(job_obj)
 
-with open('../data/mp.json', 'w', encoding='utf-8') as f:
+with open('../data/mil.json', 'w', encoding='utf-8') as f:
     json.dump(jobs_obj, f)  

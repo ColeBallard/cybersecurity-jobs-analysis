@@ -88,5 +88,5 @@ def cleanData(file):
 
 cleanData('us')
 cleanData('ny')
-cleanData('mp')
-cleanData('mw')
+cleanData('min')
+cleanData('mil')
