@@ -57,7 +57,7 @@ def detDatePosted(date_posted):
         return ''
 
 def cleanData(file):
-    with open(f'../data/{file}.json', 'r', encoding='utf-8') as f:
+    with open(f'./data/{file}.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     job_data = []
@@ -83,10 +83,29 @@ def cleanData(file):
 
         job_data.append(job_obj)
 
-    with open(f'../data/{file}_new.json', 'w', encoding='utf-8') as f:
+    with open(f'./data/{file}_new.json', 'w', encoding='utf-8') as f:
         json.dump(job_data, f)  
+
+def combine(locs):
+    i = 0
+    for loc in locs:
+        with open(f'./data/{loc}_new.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
+            if i == 0:
+                mode = 'w'
+
+            else:
+                mode = 'a'
+
+            with open('./data/data_new.js', mode, encoding='utf-8') as f1:
+                f1.write(f'var {loc.upper()} = {data} \n')
+
+            i += 1
 
 cleanData('us')
 cleanData('ny')
 cleanData('min')
 cleanData('mil')
+
+combine(['us', 'ny', 'min', 'mil'])

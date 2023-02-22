@@ -62,7 +62,7 @@ def getJobData(location, loc_url):
 
             jobs_obj.append(job_obj)
 
-    with open(f'../data/{location}.json', 'w', encoding='utf-8') as f:
+    with open(f'./data/{location}.json', 'w', encoding='utf-8') as f:
         json.dump(jobs_obj, f)  
 
 getJobData('us', 'http://www.indeed.com/jobs?q=cyber+security&start=')
