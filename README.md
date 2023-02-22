@@ -18,7 +18,7 @@ git clone https://github.com/ColeBallard/cybersecurity-jobs-analysis
 
 2. Install the latest version of python. [Downloads.](https://www.python.org/downloads/)
 
-3. Install dependencies.
+3. Install dependencies (depends on your version of pip).
 
 ```shell
 pip install beautifulsoup4
