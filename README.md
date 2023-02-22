@@ -28,7 +28,7 @@ pip install requests
 4. Run the python file.
 
 ```shell
-YourFileLocation/cybersecurity-jobs-analysis/scrape/scrape.py
+python YourFileLocation/cybersecurity-jobs-analysis/scrape/scrape.py
 ```
 
 ## Data Guide
