@@ -12,6 +12,10 @@ body {
     color: lightgray;
 }
 
+#page-title-date {
+  text-align: right;
+}
+
 .page-title {
   font-size: 4rem;
   text-align: left;
