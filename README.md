@@ -37,4 +37,4 @@ python YourFileLocation/cybersecurity-jobs-analysis/scrape/scrape.py
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 Company name| Company rating| 0 = not remote, 1 = remote, 2 = hybrid, 3 = temporarily remote| City| State| Lower end of salary range| Higher end of salary range| The number of days ago the job was posted
 
-## **[Contact](https://coleb.io/contact)**
+## **[Contact](https://github.com/ColeBallard/coleballard.github.io/blob/main/README.md)**
